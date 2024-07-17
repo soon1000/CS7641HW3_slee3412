@@ -1,0 +1,566 @@
+﻿number,TeacherID,speaker,utterance,ut,rc,conversation_id,KMeans_Cluster,EM_Cluster
+1,3026,T,Ok. So you’re going to be talking about - we’re going to be talking about speed. So what is speed?,Q,SK,1,4,23
+2,3026,T,"You all should probably be able to tell me that without even having to look at your book because you speed to school every day, right? ",P,EX,1,4,23
+3,3026,S,Nope. No. ,Ry,EX,2,19,19
+4,3026,T,You don’t? Don’t you all ride the school bus? ,Q,EX,3,9,8
+5,3026,S,Yes. No. ,Ry,EX,4,5,4
+6,3026,T,Is speed involved in getting to school? ,Q,EX,5,5,4
+7,3026,S,Yeah. ,Ry,EX,6,2,15
+8,3026,T,"Yeah, what is speed? ",Q,SK,7,2,15
+9,3026,S,Movement. ,Rs,SK,8,6,3
+10,3026,T,"It’s movement, ok, ",Fy,SK,9,14,14
+11,3026,T,and what two things do we use to calculate speed? ,Q,SK,9,14,14
+12,3026,S,Distance traveling over time. ,Rs,SK,10,5,20
+13,3026,T,Distance traveled over…,Fq,SK,11,16,16
+14,3026,S,Time. ,Rs,SK,12,3,0
+15,3026,T,Time. ,Fy,SK,13,3,24
+16,3026,T,"It’s how far you’re going, and how long did it take you to go that far, ok? ",E,SK,13,3,24
+17,3026,T,"So if I’m driving to Houston to see my sister and I drive 50 - let’s say I drive 100 miles in two hours, ok? ",E,EX,13,3,24
+18,3026,T,"I can look at that and I can break it down into how many miles was I going per hour, probably. ",E,OD,13,3,24
+19,3026,T,"If I went - if I made it 100 miles in two hours, think about it.",E,OD,13,3,24
+20,3026,T,"If I drove 200 - If I drove 100 miles and I did it in two hours, how many miles did I go each hour? ",Q,OD,13,3,24
+21,3026,S,50,Rs,OD,14,6,3
+22,3026,T,"I did 50, right? ",Fy,OD,15,7,6
+23,3026,T,"I threw you a curve in there; I said two hours. So we normally know speed as miles per what, guys? ",Q,SK,15,7,6
+24,3026,S,Hour. ,Rs,SK,16,6,3
+25,3026,T,Hour. Miles per hour. ,Fy,SK,17,12,9
+26,3026,T,"We’re just trying to calculate how much distance can you travel in a certain amount of time, ok? ",E,PD,17,12,9
+27,3026,T,"So of course, the farther you go in the less time it faster or slower? ",Q,PD,17,12,9
+28,3026,S,Faster. ,Rs,PD,18,16,16
+29,3026,T,"Faster, right?  It would go faster. ",Fy,PD,19,4,23
+30,3026,T,Or the less distance you cover in the same amount you’re probably going… ,Fq,PD,19,4,23
+31,3026,S,Slower.   ,Rs,PD,20,10,2
+32,3026,T,"Slower, so speed is all about that distance and time relationship. ",Fs,MT,21,3,24
+33,3026,T,"And we’re going to talk about average speed vs. instantaneous speed, ok? ",P,SK,21,3,24
+34,3026,T,"If I did drive to Houston and I took an average speed, what does average mean? ",Q,SK,21,3,24
+35,3026,T,You all just did this on your test. ,P,,21,3,24
+36,3026,T,What does average mean? ,Q,SK,21,3,24
+37,3026,T,"If I take an average of anything, what am I doing? ",Q,SK,21,3,24
+38,3026,S,Taking…,Rs,SK,22,14,14
+39,3026,T,Raise your hand. Jason? ,P,SK,23,14,14
+40,3026,S,"Oh, oh, like you total it up… ",Rs,SK,24,0,17
+41,3026,T,"Yeah, I’m totaling up what? A list of what? ",Fq,SK,25,12,9
+42,3026,S,The speeds. ,Rs,SK,26,1,7
+43,3026,T,Correct.,Fy,SK,27,4,5
+44,3026,T,"I’m dividing it by how many different speeds I went, ok?  ",E,OD,27,4,5
+45,3026,T,"Because I started biking, and I can bike around White Rock Lake  ",E,OD,27,4,5
+46,3026,T,and sometimes I’m going 15 miles an hour; ,E,OD,27,4,5
+47,3026,T,"it depends if I’m going down a hill or not, ",E,OD,27,4,5
+48,3026,T,but at the end of my trip I look at my average speed and it might tell me I went an average of 10 MPH. ,E,OD,27,4,5
+49,3026,T,So that means it takes all my speeds and it’s going to average it all together. ,E,OD,27,4,5
+50,3026,T,"So on the average I did about 10 MPH even though at some points I may have gone faster or slower, right? ",E,OD,27,4,5
+51,3026,T,Are you going to go the same speed as you drive to school?   ,Q,PD,27,4,5
+52,3026,T,What do you do between? ,Q,PD,27,4,5
+53,3026,S,Stop. Go. ,Rs,PD,28,13,12
+54,3026,T,"Stop, at a stop light, and then what do you do? ",Fq,OD,29,13,12
+55,3026,S,Go. ,Rs,OD,30,8,1
+56,3026,T,"You go, and as you start leaving the stop light what do you do? ",Fq,OD,31,13,12
+57,3026,T,As you leave you get a little what?,Q,OD,31,13,12
+58,3026,S,Faster. ,Rs,OD,32,16,16
+59,3026,T,You go a little faster. ,Fs,OD,33,19,19
+60,3026,T,So the average speed is just talking about all your speeds averaged together. ,E,MT,33,19,19
+61,3026,T,"Now if I want to take a speed instantaneously, ",E,EX,33,19,19
+62,3026,T,"if I want to take a speed at one instance, that means at that one moment I want to know how fast I’m going, ",E,EX,33,19,19
+63,3026,T,so what kind of scale - what tool do I use to try to measure how I’m going at one particular second? ,Q,EX,33,19,19
+64,3026,S,Odometer. ,Rs,EX,34,2,15
+65,3026,T,What’s that called? ,Fq,EX,35,18,18
+66,3026,S,Speedometer. Odometer. ,Rs,EX,36,2,15
+67,3026,T,What’s the difference between an odometer and a speedometer? ,Q,EX,37,2,15
+68,3026,S,A speedometer tells you how fast you’re going. ,Rs,EX,38,9,8
+69,3026,T,"Right, the speedometer tells you how fast you’re going. ",Fs,EX,39,20,21
+70,3026,T,It tells you your instant speed at that one moment. ,E,EX,39,20,21
+71,3026,T,"What does the odometer do, guys? ",Q,EX,39,20,21
+72,3026,S,How far you traveled? ,Rs,EX,40,16,16
+73,3026,T,"Right, how far you traveled. ",Fy,EX,41,9,8
+74,3026,T,So you can get in your car and you can reset the odometer so if you’re about to leave your house ,E,EX,41,9,8
+75,3026,T,"and you want to calculate how good you’re driving, how fast you’re driving, you can set it to zero, ",E,EX,41,9,8
+76,3026,T, and as you get there it’s going to calculate your miles and then you can calculate your time. ,E,EX,41,9,8
+77,3026,T,"Ok, well send it. Ok. Alright, let’s see our class average. Hold on, we’ll do that in a minute. Alright, so let’s go over your little mini quiz here. So I asked you in your own words what equilibrium meant.",P,,41,9,8
+78,3026,T,"We have several examples with Mr. Denero and a class. Let’s see what you told me here. Alright, equal amount, the same, two equal things - I think this is supposed to say balance. I think you’re [inaudible], but I understand that’s balance. Equal and in balance. Now whenever you give a definition of a word you don’t want to use the same form of the word, so if I say it’s equilibrium, I don’t want to see equal in the definition.",P,,41,9,8
+79,3026,S,Some did what? ,Q,SK,42,6,3
+80,3026,T,Ignore. So the best thing you can probably tell me is if it’s balanced. Remember we talked about equilibrium where it’s reached a stable stage or it’s in balance. ,E,SK,43,10,2
+81,3026,T,"Think about the volcano. If the volcano is building up pressure, is that equilibrium, if it’s got pressure underneath it? ",Fq,SK,43,10,2
+82,3026,S,Yeah. ,Q,OD,44,2,15
+83,3026,T,"Yeah,  if it’s building up pressure? ",Fq,OD,45,2,15
+84,3026,S,No. ,Ry,OD,46,8,1
+85,3026,T,"No.  Is the pressure greater or less underneath the crust as it is on the outside? Where’s there the most pressure. Think about it. If your volcano is building up pressure, is it going to be greater or less than the air pressure outside the volcano? Hello, Cory, is it greater or less? ",Fq,PD,47,1,7
+86,3026,S,Less. ,Rs,PD,48,8,1
+87,3026,T,"Huh? Exactly; you’re not listening. Marquis, is it greater or less? ",Fq,PD,49,15,13
+88,3026,S,I think less. ,Rs,PD,50,14,14
+89,3026,T,"Inside the volcano, before it erupts?",Fq,PD,51,3,0
+90,3026,S,It’s greater. ,Rs,PD,52,11,10
+91,3026,T,It’s greater. ,Fy,PD,53,3,0
+92,3026,T,"Now before it balances out it’s going to do what? If it wants to reach equilibrium, what does that volcano have to do? ",Q,PD,53,3,0
+93,3026,S,Erupt.,Rs,PD,54,3,0
+94,3026,T,"It’s going to erupt, because the whole point is the pressure under the crust vs. the pressure outside, it’s not the same.",Fs,PD,55,4,23
+95,3026,T,"It’s in disequilibrium and we have to balance it out by making it the same, so it’s got to erupt. Same thing with succession. ",E,PD,55,4,23
+96,3026,T,"Johnny, explain to me what speed is. ",Q,SK,55,4,23
+97,3026,S,Speed is how far you move in a specific time? ,Rs,SK,56,5,4
+98,3026,T,"Ok, how far you move in a certain amount of time. ",Fs,SK,57,17,11
+99,3026,T,Ok? So how many of you all…How many of y’all sped to school this morning?,Q,EX,57,17,11
+100,3026,S,"Ran, yeah.",Rs,EX,58,7,9
+101,3026,T,Ran to the school? ,Fq,EX,59,7,20
+102,3026,T,How many of you all sped to school this morning. ,Q,EX,59,7,20
+103,3026,S,Sped? Ran to school? ,Rs,,60,7,9
+104,3026,T,I mean speed. Did you all speed to school? ,Q,EX,61,6,3
+105,3026,T,"In cars, ran. ",P,,61,6,3
+106,3026,T,"It’s funny, because when I say speed to school you think that you’re going too fast, right? ",E,OD,61,6,3
+107,3026,T,"But really, the actual definition of speed is involving what two units as Johnny just told us?",Q,SK,61,6,3
+108,3026,T,What two units does it involve? ,Q,SK,61,6,3
+109,3026,S,Time and distance. ,Rs,SK,62,5,4
+110,3026,T,"Time and distance, ok? ",Fy,SK,63,14,14
+111,3026,T,"So really, it’s just a ratio of how far have you gone in a certain amount of time.",E,SK,63,14,14
+112,3026,T,And you all deal with speed all the time. ,E,EX,63,14,14
+113,3026,T,"You all are in baseball, you all are in track, you measure your speed ",E,EX,63,14,14
+114,3026,T,"When you drive to school everyday, roadtrips, when you’re on the interstate or in your neighborhood. E3.5 ",E,EX,63,14,14
+115,3026,T,what are the units that we measure our speed in? ,Q,SK,63,14,14
+116,3026,S,Miles per hour. ,Rs,SK,64,6,3
+117,3026,T,"We measure it in miles per hour, ",Fy,SK,65,18,18
+118,3026,T,"don’t we, whereas in science lab we may use [inaudible] per second. ",E,SK,65,18,18
+119,3026,T,"So if I’m driving to Houston to see my sister, ok? ",E,OD,65,18,18
+120,3026,T,And let’s say I drive the first 100 miles and it takes me exactly two hours. ,E,OD,65,18,18
+121,3026,T,About how many miles did I go per hour?,Q,OD,65,18,18
+122,3026,S,50,Rs,OD,66,6,3
+123,3026,T,If I went 100 miles and it took me two hours. ,Q,OD,67,3,0
+124,3026,S,50 each hour. ,Rs,OD,68,6,3
+125,3026,T,"Right, and what did you have to do to figure that out? ",Fq,OD,69,4,23
+126,3026,S,Divide by two.,Rs,OD,70,3,0
+127,3026,T,"You just divide it, right? That’s all speed is. ",Fs,OD,71,5,4
+128,3026,T,"All speed is, is just a ratio of your distance to your time, ",E,PD,71,5,4
+129,3026,T,"so if you know your speed and your time you can tell me how far you’ve gone, or, if you know your speed and your… I said that backwards. ",E,PD,71,5,4
+130,3026,T,"If you know your speed and your time you can calculate how far you’ve gone,",E,PD,71,5,4
+131,3026,T,"or if you know your total distance and if you know your total time, you can also calculate your speed,  ",E,PD,71,5,4
+132,3026,T,and that’s our formula that you just looked up. ,E,SK,71,5,4
+133,3026,T,So what’s the actual formula for speed? ,Q,SK,71,5,4
+134,3026,S,Average of distance over time. ,Rs,SK,72,10,2
+135,3026,T,Right. Your total distance over total time. ,Fy,SK,73,10,27
+136,3026,T,"That’s your average speed, which brings me to question two. ",E,SK,73,10,27
+137,3026,T,There’s average speed and there’s instantaneous speed. ,E,SK,73,10,27
+138,3026,T,So what is your average speed? ,Q,SK,73,10,27
+139,3026,T,"Speed itself is distance over time, but what is your average speed? ",Q,SK,73,10,27
+140,3026,T,"If you had to take an average, what does that mean?",Q,SK,73,10,27
+141,3026,T,"We’ve been doing math [inaudible], math practice.  ",P,SK,73,10,27
+142,3026,S,You add and divide. ,Rs,SK,74,3,0
+143,3026,T,One person – raise your hand. One person. Ron? ,P,SK,75,12,9
+144,3026,S,Go half the speed you regularly go? ,Rs,SK,76,16,16
+145,3026,T,You go half the speed your regularly go?  If I’m averaging speeds? ,Fq,SK,77,4,23
+146,3026,S,Like if... ,Rs,SK,78,15,13
+147,3026,T,"Let me put it this way, I’ve been starting to bike.",E,OD,79,1,7
+148,3026,T,"I ride my bike; I’m training for the MS 150, so if I get on my bike and I ride around White Rock Lake, ",E,OD,79,1,7
+149,3026,T,I’m not always going to be going the same speed at all times. ,E,OD,79,1,7
+150,3026,S,No. ,Ry,OD,80,8,1
+151,3026,T,Same thing in your car; are you always going to be going the same speed all the way to your destination?,Q,OD,81,17,11
+152,3026,S,No. ,Ry,OD,82,8,1
+153,3026,T,No. Why? What’s happening between? ,Fq,OD,83,10,2
+154,3026,S,The speed limit goes faster or slower.,Rs,OD,84,13,12
+155,3026,T,"Yeah, the speed limit may change. ",Fs,OD,85,0,17
+156,3026,T,"You may have to slow down for a school zone, or what else? ",Fq,OD,85,0,17
+157,3026,S,You have to get to the highway. ,Rs,OD,86,0,17
+158,3026,T,George said if you have to go on the freeway you might have to speed up to get on it. ,Fs,OD,87,4,23
+159,3026,T,"He’s right. Like when I ride my bike around the lake, sometimes I’m going down hill and I go about 15, 18 MPH, ",E,OD,87,4,23
+160,3026,T,but then if I’m going up a hill I’m really tired and I’m going to slow down to like 9 MPH. ,E,OD,87,4,23
+161,3026,T,"Ok? So at the end of my trip I look at my speedometer and it tells me my average speed may be 10, but at some points I was doing 15; ",E,OD,87,4,23
+162,3026,T,"sometimes I did 9, so what did my average speed do? ",Q,OD,87,4,23
+163,3026,T,How do I calculate it? ,Q,PD,87,4,23
+164,3026,S,"It changed, so you add all the speeds up and divide by the number. ",Rs,PD,88,3,0
+165,3026,T,"Right, add all my speeds up and divide it by how many times it took the speed, right?",Fs,PD,89,3,24
+166,3026,T,And that’s where I get my average speed. ,Fs,,89,3,24
+167,3026,T,"So I can say my average speed from here to Houston was about 60 MPH, but that doesn’t mean I was going 60 the whole time, does it? ",Q,PD,89,3,24
+168,3026,S,No. ,Ry,PD,90,8,1
+169,3026,T,"Because you know somewhere between there I probably had to stop and get gas, slow down, speed up to get on the freeway. ",Fs,PD,91,6,3
+170,3026,T,Now how is that different from instantaneous speed? What’s instantaneous speed? Raise your hand. ,Q,SK,91,6,3
+171,3026,T,"Say it again louder, Travis. ",P,SK,91,6,3
+172,3026,S,To keep from exceeding the speed limit. ,Rs,SK,92,10,2
+173,3026,T,"We use it to keep from going over the speed limit, so…",Fs,SK,93,1,7
+174,3026,T,Well we use the odometer to measure what? ,Q,EX,93,1,7
+175,3026,S,Speed. How far you went. The distance. ,Rs,EX,94,16,16
+176,3026,T,"Right, odometer measures the distance ",Fy,EX,95,10,15
+177,3026,T,and you speedometer measures what? ,Q,EX,95,10,15
+178,3026,S,Average. Speed. ,Rs,EX,96,10,2
+179,3026,T,"Speed, ok? ",Fq,EX,97,10,2
+180,3026,T,So instantaneous speed means the speed I’m going when?,Q,OD,97,10,2
+181,3026,S,When you start. ,Rs,OD,98,6,3
+182,3026,T,"Well any time, right?  ",Fy,OD,99,12,9
+183,3026,T, If I want to know my speed at any given time what am I going to look at? ,Q,EX,99,12,9
+184,3026,S,The speedometer. ,Rs,EX,100,2,15
+185,3026,T,"I’m going to look at my speedometer, and I’m going to know exactly how fast I’m going at that one moment. ",Fs,EX,101,10,2
+186,3026,T,That’s instantaneous speed. ,E,SK,101,10,2
+187,3026,T,"Now average speed, remember, is an average of all my what? ",Q,SK,101,10,2
+188,3026,S,Speeds. ,Rs,SK,102,1,7
+189,3026,T,All my different speeds from point A to point B. ,Fs,SK,103,1,7
+190,3026,S,And then you divide by the number. ,Rs,SK,104,3,0
+191,3026,T,"Right, so I can measure my speed exactly as I go up a hill, and I could later on give my average, so that’s two different things, ok?  ",Fq,SK,105,10,2
+192,3026,T,"We’re going to look at speed today and we’re going to do some calculations using some equipment that you see on your desk. Questions on your bell ringer? We need to jump back to yesterday for a minute. We did not get to finish our questions over equilibrium, did we? ",P,,105,10,2
+193,3026,T,"T:  I know, I’m fixing it. Ok, so in your own words, what does equilibrium mean? ",Q,SK,105,10,2
+194,3026,T,"Ok, we talked about equilibrium, ",P,SK,105,10,2
+195,3026,T,"[inaudible], when an eco-system reaches that climax community, so let’s see what you all said. ",P,SK,105,10,2
+196,3026,T,"Alright, balance, eco-system balance, 50/50 the same, eco system that stays in balance. ",Fs,SK,105,10,2
+197,3026,T,"I think the key word here is what, guys? ",Q,SK,105,10,2
+198,3026,S,Balance.,Rs,SK,106,12,9
+199,3026,T,"Balance, meaning that we have reached a state… ",Fy,SK,107,11,10
+200,3026,T,"One, two, three, four… Key word meaning balance, meaning the level, the system, whatever system we’re talking about; ",E,SK,107,11,10
+201,3026,T," volcano, eco-system, you’re human body. ",E,OD,107,11,10
+202,3026,T," What ever the system is it’s always trying to keep a stable condition; a balance of the systems, ok? ",E,OD,107,11,10
+203,3026,T," Like your body is always trying to balance temperatures, so I think you all got that pretty good. ",E,EX,107,11,10
+204,3026,T, Then we talked about the stages of succession in order.,E,SK,107,11,10
+205,3026,T,Here were your choices. If we’re going from earliest to latest… ,P,SK,107,11,10
+206,3026,T,"Where are you glasses, sweetie? ",Q,,107,11,10
+207,3026,S,I broke them. ,Rs,,108,4,23
+208,3026,T,"They’re broken. Here, have a seat right here. ",Fs,,109,9,8
+209,3026,T,That way we won’t block you in. ,P,,109,9,8
+210,3026,T,"Alright, so which one would be the earliest stage that needs to be on top, Andrew? ",Q,SK,109,9,8
+211,3026,S,Bare rock. ,Rs,SK,110,5,4
+212,3026,T,"Bare rock, right? ",Fy,SK,111,5,20
+213,3026,T,That’s after lava has hardened and we have nothing but bare rock. ,E,SK,111,5,20
+214,3026,T,Is there life there yet? ,Q,SK,111,5,20
+215,3026,S,No.,Ry,,112,8,1
+216,3026,T,Is there soil there yet? ,Q,SK,113,7,9
+217,3026,S,No. ,Ry,SK,114,8,1
+218,3026,T,"No, bare rock, ",Fy,SK,115,5,20
+219,3026,T,so what’s the next thing that can grow on bare rock? ,Q,SK,115,5,20
+220,3026,S,Minor species. ,Rs,SK,116,13,12
+221,3026,T,Minor species; ,Fy,SK,117,5,4
+222,3026,T,do they need soil to grow? ,Q,SK,117,5,4
+223,3026,S,Yes. No. ,Ry,SK,118,5,4
+224,3026,T,No.,Fy,SK,119,11,10
+225,3026,T,So are shrubs going to be next? ,Q,SK,119,11,10
+226,3026,S,Yeah. I put shrubs. ,Rs,SK,120,11,27
+227,3026,T,What do shrubs need to grow in? ,Q,SK,121,5,4
+228,3026,S,Soil. ,Rs,SK,122,7,9
+229,3026,T,Soil. ,Fy,SK,123,5,4
+230,3026,T,Is there any soil yet on bare rock? ,Q,SK,123,5,4
+231,3026,S,No. ,Ry,SK,124,8,1
+232,3026,T,"No, so shrubs can’t be next, so it has to be pioneer species. ",Fs,SK,125,5,20
+233,3026,T,"Then when the pioneer species start breaking down that rock, to form soil, then we can have seedlings and shrubs, ",E,SK,125,5,20
+234,3026,T,and then the last stage? ,Q,SK,125,5,20
+235,3026,S,Virgin maple forest. ,Rs,SK,126,7,9
+236,3026,T,"Ok, Tim, you got that order correct. ",Fs,SK,127,4,23
+237,3026,T,"Some groups started with the pioneer species, ",Fs,SK,127,4,23
+238,3026,T," but remember, before the pioneer species, they have to grow on what? ",Fq,SK,127,4,23
+239,3026,S,Bare rock.,Rs,SK,128,5,4
+240,3026,T,Bare rock. ,Fy,SK,129,5,4
+241,3026,T,"Down here, bare rock was right, but someone put shrubs and seedlings next. ",E,SK,129,5,4
+242,3026,T,Remember they can’t grow until you have soil.,E,SK,129,5,4
+243,3026,S,"[inaudible] bare rock, or virgin maple. ",Rs,SK,130,5,20
+244,3026,T,And then we’re getting a forest. ,E,SK,131,17,11
+245,3026,T,"Remember, we can’t have a climax community forest until we’ve gone thru the smaller stages, ok?",E,SK,131,17,11
+246,3026,T,Remember your diagrams?,P,OD,131,17,11
+247,3026,S,Yes. ,Rs,OD,132,5,4
+248,3026,T,"Remember, you start with bare rock and you had to move your way up.",E,OD,133,1,7
+249,3026,T,This was right off your diagram; it was right off your diagram. ,E,OD,133,1,7
+250,3026,T,So we need to work on that a little bit for the final demo. ,P,,133,1,7
+251,3026,T,"This was primary, secondary or both. [inaudible]? ",Q,SK,133,1,7
+252,3026,S,Primary. ,Rs,SK,134,18,18
+253,3026,T,Primary. ,Fy,SK,135,3,0
+254,3026,T,"Oh, you all did really good on that one. ",Fs,SK,135,3,0
+255,3026,T,"Ok, that is primary. Only two of you all picked secondary. ",Fs,SK,135,3,0
+256,3026,T,The end result is a climax community in which it’s reached equilibrium. ,E,SK,135,3,0
+257,3026,S,Primary. Secondary. ,Rs,SK,136,18,18
+258,3026,T,"Primary, secondary, or is it both? ",Q,SK,137,18,18
+259,3026,S,Both. ,Rs,SK,138,8,1
+260,3026,T,It’s both. ,Fy,SK,139,10,2
+261,3026,T,Four of you didn’t answer that. ,P,,139,10,2
+262,3026,T," Listen. Whether it’s primary or secondary, eventually each one is going to have soil, right?",E,SK,139,10,2
+263,3026,T,And eventually each one… Can each one support a stable eco-system after thousands of years?,Q,SK,139,10,2
+264,3026,S,Yes. ,Ry,SK,140,5,4
+265,3026,T,"So each one, it’s ultimate goal is to reach what kind of community? ",Q,SK,141,5,4
+266,3026,S,Climax. ,Rs,SK,142,4,23
+267,3026,T,"Climax community, ",Fy,,143,3,0
+268,3026,T,"So it doesn’t matter if you start as primary when a volcano erupts, ",E,SK,143,3,0
+269,3026,T, or it doesn’t matter if it’s secondary if you have a forest fire. ,E,SK,143,3,0
+270,3026,T,"Either way you need to try to get your climax community again, right? ",E,SK,143,3,0
+271,3026,S,Yes. ,Ry,SK,144,5,4
+272,3026,T,"Of course, after a forest fire…",Q,SK,145,14,14
+273,3026,S,Secondary. ,Rs,SK,146,10,2
+274,3026,T,Secondary. ,Fy,SK,147,1,7
+275,3026,T,Most of you all got that right; that’s good. ,Fy,,147,1,7
+276,3026,T,True or false. A volcano reaches a state of equilibrium… ,Q,SK,147,1,7
+277,3026,S,True.,Rs,SK,148,11,10
+278,3026,T,…after… ,Fq,SK,149,8,1
+279,3026,S,True. ,Rs,SK,150,11,10
+280,3026,T,After it erupts. ,Q,SK,151,13,12
+281,3026,S,True. ,Rs,SK,152,11,10
+282,3026,T,True. ,Fq,SK,153,14,14
+283,3026,T,"Remember, what is there more of under the crust before it erupts? ",Q,SK,153,14,14
+284,3026,S,Pressure. ,Rs,SK,154,1,7
+285,3026,T,Pressure. ,Fy,SK,155,15,13
+286,3026,T,And is that equal to the pressure outside the volcano? ,Q,SK,155,15,13
+287,3026,S,No. ,Ry,SK,156,8,1
+288,3026,T,"No, so before it erupts it is in imbalance.",Fs,SK,157,7,9
+289,3026,T,It’s is in disequilibrium and the only way for it to even out is to do what?,Q,SK,157,7,9
+290,3026,S,Erupts. ,Rs,SK,158,13,12
+291,3026,T,It has to erupt. ,Fy,SK,159,9,8
+292,3026,T,"Once it erupts it released the pressure and we’re back in balance, so that would be true on that question. ",E,SK,159,9,8
+293,3026,T,"Ok, this was a fill in the blank. We talked about this. When you eat a big hamburger for lunch and you digest it you get an increase in what? ",Q,SK,159,9,8
+294,3026,S,Negative ,Rs,SK,160,5,4
+295,3026,T,"Ok. Alright, yesterday we talked about speed – about what average speed vs. instantaneous speed meant. ",E,SK,161,3,0
+296,3026,T,"Jason, can you throw your gum in the trash please? Thank you very much.  ",P,,161,3,0
+297,3026,T,"So we talked about average speed being an average of all the speeds of your total trip from point A to point B. All the speeds that you went… Remember, we talked about you’re not going to go the whole speed the whole time you’re driving, right?",E,SK,161,3,0
+298,3026,T,"You’re going to speed up or slow down,",E,OD,161,3,0
+299,3026,T,so your average speed is going to be your total distance over what? Your total what?,Q,SK,161,3,0
+300,3026,S,Time. ,Rs,SK,162,3,0
+301,3026,T,"Time, right? Thank you, Marcus; total time. ",Fs,SK,163,20,21
+302,3026,T,So instantaneous speed – what is instantaneous speed again?,Q,SK,163,20,21
+303,3026,S,Speed that [inaudible] ,Rs,SK,164,11,27
+304,3026,T,"It’s the speed that you’re going at, but at any one given time – at that instant. ",Fs,SK,165,3,0
+305,3026,T,Think of the word instantaneous. ,E,SK,165,3,0
+306,3026,T, It means at that one instant how fast are you going. ,E,SK,165,3,0
+307,3026,T,"Cory, let me see your pass, sweetie. ",P,,165,3,0
+308,3026,T,What do I mean by constant speed? ,Q,SK,165,3,0
+309,3026,T,You’ll find that on 134. ,P,,165,3,0
+310,3026,T,What is the constant speed? ,Q,SK,165,3,0
+311,3026,S,Staying the same? ,Rs,SK,166,0,17
+312,3026,T,Yeah. What’s staying the same for a period of time?,Fq,SK,167,14,14
+313,3026,S,Speed? ,Rs,SK,168,10,2
+314,3026,T,Your speed; constant speed. ,Fs,SK,169,0,17
+315,3026,T,"So if you’re going at a constant speed of 50, that means you’re not going to increase or decrease your speed; ",E,OD,169,0,17
+316,3026,T,you’re just going to stay the same. ,E,OD,169,0,17
+317,3026,T,"So if we graph that, you’re going to notice that your graph isn’t going anywhere because you’re going to stay steady at a constant speed.",E,PD,169,0,17
+318,3026,T,You’ll see more what I’m talking about when we get into our lab today. ,P,,169,0,17
+319,3026,T,"And then we need to look at the relationship between velocity and acceleration, ",P,,169,0,17
+320,3026,T,"and the only way to do this is to actually get involved, and we’re going to do some motion graphing today, ",P,,169,0,17
+321,3026,T,"ok? So what is velocity? We haven’t really hit on this much yet, but just give me the definition for velocity. ",Q,SK,169,0,17
+322,3026,S,Velocity?,Rs,SK,170,17,11
+323,3026,T,Uh huh. ,P,,171,4,23
+324,3026,S,Velocity is the speed of an object in the direction it’s headed.,Rs,SK,172,4,5
+325,3026,T,"Ok, so velocity is the speed of an object in the direction it’s headed, ok? ",Fs,SK,173,12,9
+326,3026,T,There’s a nice little picture of that on 135. ,P,,173,12,9
+327,3026,T,It shows someone walking around a park. ,E,OD,173,12,9
+328,3026,S,Mine’s got a [inaudible] ,Rs,OD,174,11,10
+329,3026,T,"Those balls are actually showing acceleration, ",E,OD,175,12,9
+330,3026,T,"so my next question is: What is the relationship between velocity and acceleration, ok?  ",Q,SK,175,12,9
+331,3026,T,"Velocity we’re looking at the direction; we’re speeding and we have to go in a direction, right? ",E,OD,175,12,9
+332,3026,T,"If we’re speeding we’re moving, aren’t we? ",Q,OD,175,12,9
+333,3026,S,Acceleration means speeding up. ,Rs,SK,176,7,9
+334,3026,T,Acceleration means it’s speeding up? ,Fq,SK,177,7,9
+335,3026,S,It changes velocity. ,Rs,SK,178,0,17
+336,3026,T,"Ok, so the change in velocity,",Fs,SK,179,7,6
+337,3026,T,which means what’s changing? ,Fq,SK,179,7,6
+338,3026,S,The speed.,Rs,SK,180,10,2
+339,3026,T,Or the… ,Fq,SK,181,8,1
+340,3026,S,Or the direction. ,Rs,SK,182,7,9
+341,3026,T,Or the direction.,Fs,SK,183,7,6
+342,3026,T,"So that’s how velocity and acceleration are related,",E,SK,183,7,6
+343,3026,T,because the acceleration is when you change speed or you change direction. ,E,SK,183,7,6
+344,3026,T,"Ok, now let’s look at the graph. ",P,,183,7,6
+345,3026,T,This is a time graph. ,E,OD,183,7,6
+346,3026,T, Shh. One… Put the calculator down for a second. ,P,,183,7,6
+347,3026,T,"Look up here. Cory. Alright, we have a time graph. ",P,OD,183,7,6
+348,3026,T,What is on our axis?,Q,OD,183,7,6
+349,3026,S,TS. ,Rs,OD,184,11,10
+350,3026,T,"What does the T stand for, probably?",Q,OD,185,15,13
+351,3026,S,Time. ,Rs,OD,186,3,0
+352,3026,T,Time. ,Fy,OD,187,15,13
+353,3026,T,What does the S stand for? ,Q,SK,187,15,13
+354,3026,S,Distance. No. ,Rs,SK,188,5,4
+355,3026,T,S. ,Q,SK,189,8,1
+356,3026,S,Speed. ,Rs,OD,190,10,2
+357,3026,T,What is speed? ,Q,SK,191,10,2
+358,3026,T,What is the measure of the speed? ,Q,SK,191,10,2
+359,3026,T,Distance over what? ,Q,SK,191,10,2
+360,3026,S,Time. ,Rs,SK,192,3,0
+361,3026,T,"Time,",Fy,SK,193,4,5
+362,3026,T,so what unit would S be for time? ,Fq,SK,193,4,5
+363,3026,T,I know you all aren’t awake.,P,,193,4,5
+364,3026,T,"If we’re on the highway we say we measure miles per hour, ",E,OD,193,4,5
+365,3026,T,so what would the S be? ,Q,SK,193,4,5
+366,3026,S,Miles per hour? Second?,Rs,SK,194,6,3
+367,3026,T,Nope.,Fy,SK,195,19,19
+368,3026,S,Speed. Speed. ,Rs,SK,196,10,2
+369,3026,T,Thank you. We’re doing meters. ,Fs,SK,197,0,17
+370,3026,S,Miles per second. ,Rs,SK,198,6,3
+371,3026,T,"We just set up what unit for distance, guys? ",Q,SK,199,13,12
+372,3026,S,Meters. ,Rs,SK,200,9,25
+373,3026,T,"Meters, so we’re going meters per second. ",Fs,SK,201,8,26
+374,3026,T,"So you see on the X axis we have our time in seconds, ",E,OD,201,8,26
+375,3026,T,and on our Y what do we have? ,Q,OD,201,8,26
+376,3026,S,Distance. ,Rs,OD,202,5,4
+377,3026,T,We have our distance in meters. ,Fs,OD,203,3,24
+378,3026,T,"So Jason, what he’s going to do is he has to look at the graph",E,OD,203,3,24
+379,3026,T,"and he has to figure out where to start,",E,OD,203,3,24
+380,3026,T,and he’s going to walk in front of the motion detector ,E,OD,203,3,24
+381,3026,T,and it’s going to record where he’s walking.,E,OD,203,3,24
+382,3026,T,It’s going to record where he’s walking. ,E,OD,203,3,24
+383,3026,T,So he’s going to try to match the graph on the screen. ,E,OD,203,3,24
+384,3026,T,"I’m just going to give you a clue, ",E,OD,203,3,24
+385,3026,T,so you need to study it so you know where to start. ,E,OD,203,3,24
+386,3026,T,"So look at, look at where the graph starts. ",E,OD,203,3,24
+387,3026,T,"How many meters should he be from this motion detector, Lavelle? ",Q,OD,203,3,24
+388,3026,S,One. Four. ,Rs,OD,204,8,1
+389,3026,T,"Ok, here’s some good graphs.",E,OD,205,6,3
+390,3026,T,Who’s this right here?  Let me get it going. ,P,OD,205,6,3
+391,3026,T,Let me get these graphs up. ,P,OD,205,6,3
+392,3026,T,Look at number one. ,P,OD,205,6,3
+393,3026,T,Describe how you had to match your graph to each segment of the graph. ,P,OD,205,6,3
+394,3026,T,"So if your graph was going at a slope that was a steep slope, what did you have to do? ",Q,OD,205,6,3
+395,3026,T,If it was a straight line what did you have to do? ,Q,OD,205,6,3
+396,3026,S,Oh.,Ry,,206,0,17
+397,3026,T,"This person did a really good job, I think.",Fs,,207,14,14
+398,3026,S,That was mine. ,Rs,,208,8,1
+399,3026,T,"Oh, it was? ",Fq,,209,0,17
+400,3026,S,Uh unh. It can’t be.,Rs,,210,11,10
+401,3026,T,"So this one did pretty good, too. ",Fs,,211,4,23
+402,3026,S,That’s mine. That one in the corner is messed up; that’s mines. ,Rs,,212,17,11
+403,3026,T,Mines or just mine? ,Fs,,213,13,12
+404,3026,S,Mines ain’t a word. ,Rs,,214,1,7
+405,3026,T,It’s not a word. ,Fs,,215,12,9
+406,3026,S,There it goes. Mines ain’t no word. ,Rs,,216,13,12
+407,3026,S,Mine is a word that you can barely see. ,Rs,,216,13,12
+408,3026,S,Mines is mines. That’s mine right there. ,Rs,,216,13,12
+409,3026,T,"Look at this one. Describe to me on your particular graph, on number one,",P,OD,217,6,3
+410,3026,T,"what did you have to do in order to match the segment of the graph,  ",Q,OD,217,6,3
+411,3026,T,ok? So for this graph what did he have to do to make it a straight line? ,Q,OD,217,6,3
+412,3026,S,Be still? ,Rs,OD,218,8,1
+413,3026,T,"He had to be still, right? ",Fy,OD,219,5,4
+414,3026,T,So that’s what you should be describing to me.,P,OD,219,5,4
+415,3026,T,What did you have to do to make the line go down? ,Q,OD,219,5,4
+416,3026,S,Move closer. ,Rs,OD,220,3,0
+417,3026,T,"You had to move closer to the wall, right? ",Fs,OD,221,12,9
+418,3026,T,"Ok, what did you have to do to make the line go up? ",Q,OD,221,12,9
+419,3026,S,Move back. ,Rs,OD,222,8,1
+420,3026,T,"You had to go back,",Fs,OD,223,19,19
+421,3026,T,because you’re increasing your what? On the X axis? ,Fq,OD,223,19,19
+422,3026,S,"Um, um… ",Ry,,224,12,9
+423,3026,T,Your distance. ,Fs,OD,225,9,8
+424,3026,T,Ok? So is direction important on your graph? ,Q,OD,225,9,8
+425,3026,S,Yeah. ,Ry,OD,226,2,15
+426,3026,T,"Yes, that’s where your velocity comes in",Fs,OD,227,0,17
+427,3026,T,your direction and your speed. ,E,OD,227,0,17
+428,3026,T,"Now, how fast…. Does your speed effect the graph? ",Q,PD,227,0,17
+429,3026,T,The straightness of it? ,Q,PD,227,0,17
+430,3026,S,Yes. ,Ry,PD,228,5,4
+431,3026,T,How? How does speed come into play here? ,Fq,PD,229,15,13
+432,3026,S,Because you’ve got to [inaudible] back. ,Rs,PD,230,11,27
+433,3026,T,You’re got to what?,Fq,PD,231,11,10
+434,3026,S,Move back. ,Rs,PD,232,8,25
+435,3026,S,Move as fast as you can then [inaudible]. ,Rs,PD,232,8,25
+436,3026,T,If you went faster what happened to your line? ,Q,PD,233,16,16
+437,3026,T,What happened to the line? You’re getting there.,Q,OD,233,16,16
+438,3026,T,You said you had to hurry up and get there. ,P,OD,233,16,16
+439,3026,T,"Why did you have to hurry up, because what were you trying to do? ",Q,OD,233,16,16
+440,3026,S,Match the line. ,Rs,OD,234,6,3
+441,3026,T,Match that line. ,Fy,OD,235,9,8
+442,3026,T,Ok? So why do you need to go fast for some lines and slower for some lines? ,Q,PD,235,9,8
+443,3026,S,"Some, when you’re like that, you got to go up or down. ",Rs,PD,236,8,27
+444,3026,T,"Ok, so you’re talking about the slant of the line?",Fq,PD,237,9,8
+445,3026,S,Yeah. ,Ry,PD,238,2,15
+446,3026,T,"Ok, we call that slope. ",Fs,SK,239,16,16
+447,3026,T,Remember slope from math class? ,P,SK,239,16,16
+448,3026,T,The slope of the line?,P,SK,239,16,16
+449,3026,T,"So how steep this line is, the slope of the line, that is your what? ",Q,SK,239,16,16
+450,3026,S,Speed? ,Rs,SK,240,10,2
+451,3026,T,That’s your speed. ,Fy,SK,241,4,23
+452,3026,T,"How steep this line is is dependent on how fast you are going, isn’t it? ",E,SK,241,4,23
+453,3026,T,"If you notice, if you ran real quickly it went steeper, but if you were slow it went up very slowly, right? ",E,PD,241,4,23
+454,3026,T," Remember, it’s measuring your distance over time. ",E,PD,241,4,23
+455,3026,T,"So if you’re going faster you’re going over more distance in less time and that’s why your graphs are going to steeper, ok? ",E,PD,241,4,23
+456,3026,T,"Alright, can someone tell me what we mean by constant speed? ",Q,SK,241,4,23
+457,3026,T,"George, put the money up unless you’re going to buy me more pencils. ",P,,241,4,23
+458,3026,S,That’s all I got.,Rs,,242,11,10
+459,3026,T,"What is meant by constant speed. George, [inaudible]. ",Q,SK,243,20,21
+460,3026,S,The same speed? ,Rs,SK,244,10,2
+461,3026,T,"The speed stays the same, ok?",Fy,SK,245,9,25
+462,3026,T,"That means your not accelerating, you’re not decelerating, you’re not slowing down or speeding up. ",E,SK,245,9,25
+463,3026,T,It’s staying constant; it’s staying the same. ,E,SK,245,9,25
+464,3026,T,And when you do your time graphs in just a minute you’re going to realize what happened when you do not move or you stay the same. ,E,OD,245,9,25
+465,3026,T,What is the relationship between acceleration and velocity? Tell me what velocity is. ,Q,SK,245,9,25
+466,3026,S,Speed? ,Rs,SK,246,10,2
+467,3026,T,"It deals with speed, but what else? ",Fq,SK,247,2,15
+468,3026,S,The direction. The direction of the motion. ,Rs,SK,248,7,9
+469,3026,T,The direction of motion.,Fy,SK,249,5,20
+470,3026,T,"So we’re adding speed which is our rate of distance over time and we’re giving it direction, meaning, what direction are we going to walk in? ",E,SK,249,5,20
+471,3026,T,So if you look at that picture on page 134 it shows the path of someone walking around a park. ,E,OD,249,5,20
+472,3026,T,"Do me a favor – run up to Ms. C[inaudible]’s, Ms. [inaudible] and Ms. [inaudible]’s room and see if any of these kids are in there because I owe them a lunch pass, ok? If they’re there, give it to them; if not, [inaudible]. ",P,,249,5,20
+473,3026,T,So velocity means – it’s depending on speed and direction. ,E,SK,249,5,20
+474,3026,T,"So if I’m walking a straight line, what could I do to change my velocity? ",Q,OD,249,5,20
+475,3026,S,Run. ,Rs,OD,250,2,15
+476,3026,T,"I could go faster; I could start running, right?",Fs,OD,251,17,11
+477,3026,T,"That’s one way of changing velocity. Or, what if I stay at the same speed; I’m walking and walking and walking and I turn over here.",E,OD,251,17,11
+478,3026,T,Will I change velocity? ,Q,OD,251,17,11
+479,3026,S,No. Yes. You change like motion. ,Rs,OD,252,7,6
+480,3026,T,When I turn I change what?,Q,OD,253,1,7
+481,3026,S,Velocity. Motion. Direction. ,Rs,OD,254,7,9
+482,3026,T,I change direction. ,Fs,OD,255,3,24
+483,3026,T,"I may be going the same speed, but I changed directions so I have changed my velocity.",E,OD,255,3,24
+484,3026,T,So how is velocity related to acceleration? What’s the relationship between that? Those two things? ,Q,SK,255,3,24
+485,3026,S,"Velocity, wants to be in the direction of motion and acceleration is change in velocity? ",Rs,SK,256,7,6
+486,3026,T,Acceleration is what? Say it louder? ,Fq,SK,257,10,2
+487,3026,S,Acceleration is the speed – is the change in velocity? ,Rs,SK,258,7,6
+488,3026,T,"Acceleration is the change of velocity, ok?",Fy,SK,259,7,6
+489,3026,T,"So we know velocity means I must be in motion, I can change my speed, and I have to be moving in a particular direction, ok? ",E,SK,259,7,6
+490,3026,T,"And I’m moving right now, so do I have velocity? ",Q,OD,259,7,6
+491,3026,S,No. ,Ry,OD,260,8,1
+492,3026,T,"No. My speed is zero, but I’m not going in any direction right now, but once I move to a different direction I can change my velocity.",Fs,OD,261,8,1
+493,3026,T,"Ok, let’s answer one and two. Let’s look at a few of these graphs. ",P,OD,261,8,1
+494,3026,T,"Tell me, and this is just your first try. ",P,,261,8,1
+495,3026,T,"This was just your first try, so let’s look at this one. ",P,,261,8,1
+496,3026,T,"This one turned out pretty good, ok? ",P,,261,8,1
+497,3026,T,So what did this person have to do to match this graph? ,Q,OD,261,8,1
+498,3026,S,[inaudible]. Walk a lot.,Rs,OD,262,14,14
+499,3026,T,Hold on. You’ve got to tell me where he had to start; ,P,OD,263,6,3
+500,3026,T,you’ve got to be specific in your description.,P,OD,263,6,3
+501,3026,T,You have to start how far away from the wall? ,P,OD,263,6,3
+502,3026,S,One? ,Rs,OD,264,8,1
+503,3026,T,He had to start one foot away ,Fs,OD,265,5,4
+504,3026,T,and then which way did he have to walk? ,Q,OD,265,5,4
+505,3026,S,Backwards. ,Rs,OD,266,20,21
+506,3026,T,He had to go back. ,Fs,OD,267,8,26
+507,3026,T,How many meters back did he have to go? ,Q,OD,267,8,26
+508,3026,S,Three. One. ,Rs,OD,268,8,1
+509,3026,T,One.,Fy,,269,7,9
+510,3026,T,See how that ended up one extra meter?,Q,OD,269,7,9
+511,3026,S,Yeah. ,Rs,OD,270,2,15
+512,3026,T,How long did he have to walk back to that other meter? ,Q,OD,271,6,3
+513,3026,S,Three.,Rs,OD,272,8,1
+514,3026,T,How long did it [inaudible]? ,Q,OD,273,20,21
+515,3026,S,Three? ,Rs,OD,274,8,1
+516,3026,T,"Ok, ",Fy,OD,275,6,3
+517,3026,T,so he had to walk back for how many seconds? Count. How many seconds? How many seconds did he have to walk backwards for?,Q,OD,275,6,3
+518,3026,S,Three. ,Rs,OD,276,8,1
+519,3026,T,"Three, right? ",Fy,OD,277,15,13
+520,3026,T,So he had to judge it. How did we get that straight line? ,Q,PD,277,15,13
+521,3026,S,Just stay there. ,Rs,PD,278,12,9
+522,3026,T,"He stopped, right? ",Fy,PD,279,3,0
+523,3026,T,And what was our speed at that point?,Q,PD,279,3,0
+524,3026,S,Zero. ,Rs,PD,280,4,23
+525,3026,T,"Zero; you weren’t moving, were you? ",Fs,PD,281,1,7
+526,3026,T,"Then, what did we do here? How long did he have to stand there and do nothing? ",Q,OD,281,1,7
+527,3026,S,Like four seconds. ,Rs,OD,282,15,13
+528,3026,T,"Yeah, about one, two, three, four seconds, ",Fs,OD,283,6,3
+529,3026,T,and after four seconds what did he have to do? ,Q,OD,283,6,3
+530,3026,S,Walk back. ,Rs,OD,284,16,16
+531,3026,T,"Walk forward again, right? Ok.",Fs,OD,285,3,22
+532,3026,T,"now at that point, at what two points did the velocity change on this? Remember what – for velocity to change are what two thing? ",Q,PD,285,3,22
+533,3026,S,Velocity. ,Rs,PD,286,17,11
+534,3026,T,What two things make up velocity? ,Q,SK,287,19,19
+535,3026,S,Speed. ,Rs,SK,288,10,2
+536,3026,T,Speed or… ,Fq,SK,289,10,2
+537,3026,S,Direction. ,Rs,SK,290,7,9
+538,3026,T,Direction. ,Fy,SK,291,19,19
+539,3026,T,So can you tell me the two places on this graph where he changed velocity? ,Q,PD,291,19,19
+540,3026,S,In the middle. ,Rs,PD,292,12,9
+541,3026,T,One – we’re almost done – two… ,Fs,PD,293,8,1
+542,3026,S,Where it changed? ,Rq,PD,294,15,13
+543,3026,T,Show me where he changed velocity. Show me.,P,PD,295,6,3
+544,3026,T,At what specific point did he either change speed or change direction. ,Q,PD,295,6,3
+545,3026,T,"One, two – Gene, you need to sit in the back, please.",P,,295,6,3
+546,3026,S,Alright. ,Ry,,296,4,23
+547,3026,T,"…three, four. Johnny, come help him out. ",P,,297,19,19
+548,3026,T,"Where did he either change speed or change direction? Hold on, what specific point? ",Q,PD,297,19,19
+549,3026,S,[inaudible] ,,,298,11,10
+550,3026,T,"You all listening? One, two, three… Alright. ",P,,299,11,10
+551,3026,T,"You see right here? What happens at this point? Right here at this point, what happened? What did he do? ",Q,OD,299,11,10
+552,3026,S,He stopped. ,Rs,OD,300,3,0
+553,3026,T,He stopped. ,Fy,OD,301,3,0
+554,3026,T,Did he change his speed? ,Q,PD,301,3,0
+555,3026,S,"No. If he stops he changes speed, yes. Oh, yeah. Yeah.",Rs,PD,302,0,17
+556,3026,T,"Ok, what about right here? What did he change?",Q,OD,303,1,7
+557,3026,T,"Guys, I’m not talking over you. ",P,,303,1,7
+558,3026,T,What did he change right here? Raise your hands. ,Q,PD,303,1,7
+559,3026,S,He walked forward. ,Rs,PD,304,17,11
+560,3026,T,"He walked forward, ",Fy,OD,305,17,11
+561,3026,T,so what did he change when he started to walk forward? ,Q,PD,305,17,11
+562,3026,S,Velocity.,Rs,PD,306,17,11
+563,3026,T,"Why, because he changed what about velocity? ",Fq,PD,307,15,13
+564,3026,S,Direction.,Rs,PD,308,7,9
+565,3026,T,"Direction, thank you. ",Fy,PD,309,18,18

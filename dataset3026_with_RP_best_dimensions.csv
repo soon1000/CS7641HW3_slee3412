@@ -1,0 +1,566 @@
+﻿number,TeacherID,speaker,utterance,ut,rc,RP_best_dim_1,RP_best_dim_2
+1,3026,T,Ok. So you’re going to be talking about - we’re going to be talking about speed. So what is speed?,Q,SK,2.529937172,-3.225196215
+2,3026,T,"You all should probably be able to tell me that without even having to look at your book because you speed to school every day, right? ",P,EX,4.65900066,-0.280861647
+3,3026,S,Nope. No. ,Ry,EX,1.626218068,4.556267238
+4,3026,T,You don’t? Don’t you all ride the school bus? ,Q,EX,-2.877044694,-4.03449342
+5,3026,S,Yes. No. ,Ry,EX,-5.109257114,-2.309483642
+6,3026,T,Is speed involved in getting to school? ,Q,EX,3.881225492,2.104914438
+7,3026,S,Yeah. ,Ry,EX,1.009787533,0.650915569
+8,3026,T,"Yeah, what is speed? ",Q,SK,2.792043494,-0.843918728
+9,3026,S,Movement. ,Rs,SK,-2.890257204,1.13652054
+10,3026,T,"It’s movement, ok, ",Fy,SK,-3.790961487,1.504253351
+11,3026,T,and what two things do we use to calculate speed? ,Q,SK,-1.447978226,-1.559981627
+12,3026,S,Distance traveling over time. ,Rs,SK,1.114805154,0.255342913
+13,3026,T,Distance traveled over…,Fq,SK,-5.270294757,-0.793082765
+14,3026,S,Time. ,Rs,SK,1.921475255,1.475687562
+15,3026,T,Time. ,Fy,SK,1.921475255,1.475687562
+16,3026,T,"It’s how far you’re going, and how long did it take you to go that far, ok? ",E,SK,-1.24146346,-3.004270578
+17,3026,T,"So if I’m driving to Houston to see my sister and I drive 50 - let’s say I drive 100 miles in two hours, ok? ",E,EX,-0.425713148,-1.470343563
+18,3026,T,"I can look at that and I can break it down into how many miles was I going per hour, probably. ",E,OD,1.364870312,2.688968254
+19,3026,T,"If I went - if I made it 100 miles in two hours, think about it.",E,OD,-1.852654414,-2.124595044
+20,3026,T,"If I drove 200 - If I drove 100 miles and I did it in two hours, how many miles did I go each hour? ",Q,OD,-0.424448731,3.578617375
+21,3026,S,50,Rs,OD,4.274090795,-2.195333964
+22,3026,T,"I did 50, right? ",Fy,OD,2.206806149,0.204025766
+23,3026,T,"I threw you a curve in there; I said two hours. So we normally know speed as miles per what, guys? ",Q,SK,-1.021273686,2.039106552
+24,3026,S,Hour. ,Rs,SK,-1.070393721,6.202726475
+25,3026,T,Hour. Miles per hour. ,Fy,SK,-1.511518411,9.287428663
+26,3026,T,"We’re just trying to calculate how much distance can you travel in a certain amount of time, ok? ",E,PD,1.941512321,1.131266045
+27,3026,T,"So of course, the farther you go in the less time it faster or slower? ",Q,PD,-0.395071484,-1.445790235
+28,3026,S,Faster. ,Rs,PD,1.921475257,1.475687563
+29,3026,T,"Faster, right?  It would go faster. ",Fy,PD,2.976285057,2.196870298
+30,3026,T,Or the less distance you cover in the same amount you’re probably going… ,Fq,PD,1.770230412,-3.223945853
+31,3026,S,Slower.   ,Rs,PD,-0.802580494,-1.738606967
+32,3026,T,"Slower, so speed is all about that distance and time relationship. ",Fs,MT,2.079879316,0.64602956
+33,3026,T,"And we’re going to talk about average speed vs. instantaneous speed, ok? ",P,SK,4.205956656,-1.261103899
+34,3026,T,"If I did drive to Houston and I took an average speed, what does average mean? ",Q,SK,0.035297942,0.098309516
+35,3026,T,You all just did this on your test. ,P,,0.41079135,1.353388605
+36,3026,T,What does average mean? ,Q,SK,-0.001942435,0.087478282
+37,3026,T,"If I take an average of anything, what am I doing? ",Q,SK,2.697420174,1.139191319
+38,3026,S,Taking…,Rs,SK,-1.801484554,-2.407367216
+39,3026,T,Raise your hand. Jason? ,P,SK,2.797393445,-0.180919978
+40,3026,S,"Oh, oh, like you total it up… ",Rs,SK,-3.039270339,1.8376388
+41,3026,T,"Yeah, I’m totaling up what? A list of what? ",Fq,SK,1.60875347,0.959712304
+42,3026,S,The speeds. ,Rs,SK,-0.064009735,0.069426213
+43,3026,T,Correct.,Fy,SK,-2.890257204,1.13652054
+44,3026,T,"I’m dividing it by how many different speeds I went, ok?  ",E,OD,0.182935562,-0.585369797
+45,3026,T,"Because I started biking, and I can bike around White Rock Lake  ",E,OD,1.865453156,1.09205376
+46,3026,T,and sometimes I’m going 15 miles an hour; ,E,OD,1.069179556,6.321537318
+47,3026,T,"it depends if I’m going down a hill or not, ",E,OD,-0.00194242,0.087478271
+48,3026,T,but at the end of my trip I look at my average speed and it might tell me I went an average of 10 MPH. ,E,OD,3.74671636,1.541325583
+49,3026,T,So that means it takes all my speeds and it’s going to average it all together. ,E,OD,3.4188113,1.415658626
+50,3026,T,"So on the average I did about 10 MPH even though at some points I may have gone faster or slower, right? ",E,OD,0.417955736,-1.553298107
+51,3026,T,Are you going to go the same speed as you drive to school?   ,Q,PD,3.656764022,-2.602603337
+52,3026,T,What do you do between? ,Q,PD,-0.188144341,0.033322097
+53,3026,S,Stop. Go. ,Rs,PD,-0.316827448,-0.781163471
+54,3026,T,"Stop, at a stop light, and then what do you do? ",Fq,OD,-0.381168998,-1.188406255
+55,3026,S,Go. ,Rs,OD,-0.188144341,0.033322097
+56,3026,T,"You go, and as you start leaving the stop light what do you do? ",Fq,OD,-8.06192477,-3.715167084
+57,3026,T,As you leave you get a little what?,Q,OD,2.465667021,-0.157115304
+58,3026,S,Faster. ,Rs,OD,1.921475257,1.475687563
+59,3026,T,You go a little faster. ,Fs,OD,2.545174406,0.899680375
+60,3026,T,So the average speed is just talking about all your speeds averaged together. ,E,MT,5.491634381,-1.166038592
+61,3026,T,"Now if I want to take a speed instantaneously, ",E,EX,-1.474893536,-1.609867875
+62,3026,T,"if I want to take a speed at one instance, that means at that one moment I want to know how fast I’m going, ",E,EX,2.207629309,-2.639815994
+63,3026,T,so what kind of scale - what tool do I use to try to measure how I’m going at one particular second? ,Q,EX,3.707367752,1.52624555
+64,3026,S,Odometer. ,Rs,EX,-2.890257199,1.13652054
+65,3026,T,What’s that called? ,Fq,EX,1.802214182,-0.109505953
+66,3026,S,Speedometer. Odometer. ,Rs,EX,-3.79096148,1.504253349
+67,3026,T,What’s the difference between an odometer and a speedometer? ,Q,EX,-4.241313619,1.688119753
+68,3026,S,A speedometer tells you how fast you’re going. ,Rs,EX,5.047615476,-3.060205447
+69,3026,T,"Right, the speedometer tells you how fast you’re going. ",Fs,EX,4.878195371,-2.063829036
+70,3026,T,It tells you your instant speed at that one moment. ,E,EX,5.047615477,-3.060205447
+71,3026,T,"What does the odometer do, guys? ",Q,EX,-1.511518412,9.287428648
+72,3026,S,How far you traveled? ,Rs,EX,-1.190931669,1.180516703
+73,3026,T,"Right, how far you traveled. ",Fy,EX,-2.153636923,-1.18700774
+74,3026,T,So you can get in your car and you can reset the odometer so if you’re about to leave your house ,E,EX,-1.852654415,-2.124595048
+75,3026,T,"and you want to calculate how good you’re driving, how fast you’re driving, you can set it to zero, ",E,EX,-0.416914302,-1.414652245
+76,3026,T, and as you get there it’s going to calculate your miles and then you can calculate your time. ,E,EX,-1.532089028,0.762037116
+77,3026,T,"Ok, well send it. Ok. Alright, let’s see our class average. Hold on, we’ll do that in a minute. Alright, so let’s go over your little mini quiz here. So I asked you in your own words what equilibrium meant.",P,,3.923785086,1.609185742
+78,3026,T,"We have several examples with Mr. Denero and a class. Let’s see what you told me here. Alright, equal amount, the same, two equal things - I think this is supposed to say balance. I think you’re [inaudible], but I understand that’s balance. Equal and in balance. Now whenever you give a definition of a word you don’t want to use the same form of the word, so if I say it’s equilibrium, I don’t want to see equal in the definition.",P,,0.052822829,0.103406568
+79,3026,S,Some did what? ,Q,SK,-1.970098092,1.161020032
+80,3026,T,Ignore. So the best thing you can probably tell me is if it’s balanced. Remember we talked about equilibrium where it’s reached a stable stage or it’s in balance. ,E,SK,3.181385847,8.433077356
+81,3026,T,"Think about the volcano. If the volcano is building up pressure, is that equilibrium, if it’s got pressure underneath it? ",Fq,SK,-3.092156719,-4.359918659
+82,3026,S,Yeah. ,Q,OD,1.009787533,0.650915569
+83,3026,T,"Yeah,  if it’s building up pressure? ",Fq,OD,-1.202518617,-2.09857048
+84,3026,S,No. ,Ry,OD,-0.188144341,0.033322097
+85,3026,T,"No.  Is the pressure greater or less underneath the crust as it is on the outside? Where’s there the most pressure. Think about it. If your volcano is building up pressure, is it going to be greater or less than the air pressure outside the volcano? Hello, Cory, is it greater or less? ",Fq,PD,-3.253490745,-4.603987597
+86,3026,S,Less. ,Rs,PD,-0.188144341,0.033322097
+87,3026,T,"Huh? Exactly; you’re not listening. Marquis, is it greater or less? ",Fq,PD,-8.389998957,-3.871354135
+88,3026,S,I think less. ,Rs,PD,-1.801484549,-2.40736721
+89,3026,T,"Inside the volcano, before it erupts?",Fq,PD,-2.608154651,-3.627711864
+90,3026,S,It’s greater. ,Rs,PD,-1.801484569,-2.407367215
+91,3026,T,It’s greater. ,Fy,PD,-1.801484569,-2.407367215
+92,3026,T,"Now before it balances out it’s going to do what? If it wants to reach equilibrium, what does that volcano have to do? ",Q,PD,2.986989873,7.948476081
+93,3026,S,Erupt.,Rs,PD,-2.890257199,1.136520537
+94,3026,T,"It’s going to erupt, because the whole point is the pressure under the crust vs. the pressure outside, it’s not the same.",Fs,PD,1.152818083,-3.868688053
+95,3026,T,"It’s in disequilibrium and we have to balance it out by making it the same, so it’s got to erupt. Same thing with succession. ",E,PD,-0.41333977,-1.392027646
+96,3026,T,"Johnny, explain to me what speed is. ",Q,SK,-0.001942434,0.087478278
+97,3026,S,Speed is how far you move in a specific time? ,Rs,SK,2.558313858,0.001052379
+98,3026,T,"Ok, how far you move in a certain amount of time. ",Fs,SK,1.728546648,1.021471646
+99,3026,T,Ok? So how many of you all…How many of y’all sped to school this morning?,Q,EX,-2.365915697,7.77146904
+100,3026,S,"Ran, yeah.",Rs,EX,2.792043497,-0.843918733
+101,3026,T,Ran to the school? ,Fq,EX,4.174988833,-2.544617514
+102,3026,T,How many of you all sped to school this morning. ,Q,EX,-1.511518411,9.287428661
+103,3026,S,Sped? Ran to school? ,Rs,,1.527317053,3.360682421
+104,3026,T,I mean speed. Did you all speed to school? ,Q,EX,3.525396766,-2.135039384
+105,3026,T,"In cars, ran. ",P,,4.17498884,-2.544617524
+106,3026,T,"It’s funny, because when I say speed to school you think that you’re going too fast, right? ",E,OD,1.321713669,-3.271157614
+107,3026,T,"But really, the actual definition of speed is involving what two units as Johnny just told us?",Q,SK,-3.395661093,2.063178386
+108,3026,T,What two units does it involve? ,Q,SK,6.505208355,-3.309661985
+109,3026,S,Time and distance. ,Rs,SK,2.624681783,1.956476049
+110,3026,T,"Time and distance, ok? ",Fy,SK,0.570418828,2.027286778
+111,3026,T,"So really, it’s just a ratio of how far have you gone in a certain amount of time.",E,SK,1.908236438,1.114110671
+112,3026,T,And you all deal with speed all the time. ,E,EX,-1.369238564,-1.460400152
+113,3026,T,"You all are in baseball, you all are in track, you measure your speed ",E,EX,-4.511524893,1.7984396
+114,3026,T,"When you drive to school everyday, roadtrips, when you’re on the interstate or in your neighborhood. E3.5 ",E,EX,-3.011489713,-4.237884199
+115,3026,T,what are the units that we measure our speed in? ,Q,SK,-1.369238604,-1.46040014
+116,3026,S,Miles per hour. ,Rs,SK,-1.364476848,8.2591946
+117,3026,T,"We measure it in miles per hour, ",Fy,SK,-1.292978017,6.653332859
+118,3026,T,"don’t we, whereas in science lab we may use [inaudible] per second. ",E,SK,-2.298196114,0.856699416
+119,3026,T,"So if I’m driving to Houston to see my sister, ok? ",E,OD,-0.394037308,-1.269854809
+120,3026,T,And let’s say I drive the first 100 miles and it takes me exactly two hours. ,E,OD,3.350270805,-0.220594432
+121,3026,T,About how many miles did I go per hour?,Q,OD,-1.961370597,6.766575442
+122,3026,S,50,Rs,OD,4.274090795,-2.195333964
+123,3026,T,If I went 100 miles and it took me two hours. ,Q,OD,-0.816545878,-1.212223135
+124,3026,S,50 each hour. ,Rs,OD,2.198512829,2.660487643
+125,3026,T,"Right, and what did you have to do to figure that out? ",Fq,OD,-1.109798573,-2.624571494
+126,3026,S,Divide by two.,Rs,OD,1.333321129,-5.655718691
+127,3026,T,"You just divide it, right? That’s all speed is. ",Fs,OD,3.037382623,-2.373808109
+128,3026,T,"All speed is, is just a ratio of your distance to your time, ",E,PD,2.499881447,0.212295154
+129,3026,T,"so if you know your speed and your time you can tell me how far you’ve gone, or, if you know your speed and your… I said that backwards. ",E,PD,0.886843164,-2.374022654
+130,3026,T,"If you know your speed and your time you can calculate how far you’ve gone,",E,PD,-1.566087654,-1.709353855
+131,3026,T,"or if you know your total distance and if you know your total time, you can also calculate your speed,  ",E,PD,0.780919029,0.256675392
+132,3026,T,and that’s our formula that you just looked up. ,E,SK,1.608753471,0.959712303
+133,3026,T,So what’s the actual formula for speed? ,Q,SK,5.910265732,-3.162061316
+134,3026,S,Average of distance over time. ,Rs,SK,3.003561982,1.890388105
+135,3026,T,Right. Your total distance over total time. ,Fy,SK,3.327888323,2.437264542
+136,3026,T,"That’s your average speed, which brings me to question two. ",E,SK,3.274533076,1.360365165
+137,3026,T,There’s average speed and there’s instantaneous speed. ,E,SK,4.489381299,-1.66844069
+138,3026,T,So what is your average speed? ,Q,SK,2.697420172,1.139191317
+139,3026,T,"Speed itself is distance over time, but what is your average speed? ",Q,SK,3.382442215,1.824299814
+140,3026,T,"If you had to take an average, what does that mean?",Q,SK,-0.001942435,0.087478282
+141,3026,T,"We’ve been doing math [inaudible], math practice.  ",P,SK,2.420082157,-9.719319188
+142,3026,S,You add and divide. ,Rs,SK,1.840476286,-7.552065621
+143,3026,T,One person – raise your hand. One person. Ron? ,P,SK,5.265772135,-3.189102428
+144,3026,S,Go half the speed you regularly go? ,Rs,SK,3.058115753,1.277424936
+145,3026,T,You go half the speed your regularly go?  If I’m averaging speeds? ,Fq,SK,3.418811302,1.415658626
+146,3026,S,Like if... ,Rs,SK,4.274090681,-2.195333901
+147,3026,T,"Let me put it this way, I’ve been starting to bike.",E,OD,-2.877044694,-4.034493398
+148,3026,T,"I ride my bike; I’m training for the MS 150, so if I get on my bike and I ride around White Rock Lake, ",E,OD,0.037554936,0.098965954
+149,3026,T,I’m not always going to be going the same speed at all times. ,E,OD,5.047615476,-3.060205446
+150,3026,S,No. ,Ry,OD,-0.188144341,0.033322097
+151,3026,T,Same thing in your car; are you always going to be going the same speed all the way to your destination?,Q,OD,5.538467955,-3.350223652
+152,3026,S,No. ,Ry,OD,-0.188144341,0.033322097
+153,3026,T,No. Why? What’s happening between? ,Fq,OD,-0.802580497,-1.738606966
+154,3026,S,The speed limit goes faster or slower.,Rs,OD,5.26577213,-3.189102423
+155,3026,T,"Yeah, the speed limit may change. ",Fs,OD,1.325763262,-0.138811178
+156,3026,T,"You may have to slow down for a school zone, or what else? ",Fq,OD,-4.241313622,1.688119757
+157,3026,S,You have to get to the highway. ,Rs,OD,-0.650993979,1.147646796
+158,3026,T,George said if you have to go on the freeway you might have to speed up to get on it. ,Fs,OD,0.010471025,0.091088692
+159,3026,T,"He’s right. Like when I ride my bike around the lake, sometimes I’m going down hill and I go about 15, 18 MPH, ",E,OD,3.110696402,8.256858706
+160,3026,T,but then if I’m going up a hill I’m really tired and I’m going to slow down to like 9 MPH. ,E,OD,-3.056304712,-4.30568112
+161,3026,T,"Ok? So at the end of my trip I look at my speedometer and it tells me my average speed may be 10, but at some points I was doing 15; ",E,OD,3.78890626,0.435760177
+162,3026,T,"sometimes I did 9, so what did my average speed do? ",Q,OD,-0.263524152,1.627814323
+163,3026,T,How do I calculate it? ,Q,PD,-0.97554052,-0.962492732
+164,3026,S,"It changed, so you add all the speeds up and divide by the number. ",Rs,PD,2.347631435,-9.448412517
+165,3026,T,"Right, add all my speeds up and divide it by how many times it took the speed, right?",Fs,PD,3.522630728,-3.360793614
+166,3026,T,And that’s where I get my average speed. ,Fs,,2.697420172,1.139191317
+167,3026,T,"So I can say my average speed from here to Houston was about 60 MPH, but that doesn’t mean I was going 60 the whole time, does it? ",Q,PD,0.041027238,0.099975862
+168,3026,S,No. ,Ry,PD,-0.188144341,0.033322097
+169,3026,T,"Because you know somewhere between there I probably had to stop and get gas, slow down, speed up to get on the freeway. ",Fs,PD,0.029091212,0.096504305
+170,3026,T,Now how is that different from instantaneous speed? What’s instantaneous speed? Raise your hand. ,Q,SK,5.234509798,-2.592408612
+171,3026,T,"Say it again louder, Travis. ",P,SK,-1.10979857,-2.624571486
+172,3026,S,To keep from exceeding the speed limit. ,Rs,SK,4.720380488,-2.866859975
+173,3026,T,"We use it to keep from going over the speed limit, so…",Fs,SK,3.695180144,-2.214106715
+174,3026,T,Well we use the odometer to measure what? ,Q,EX,-0.001942443,0.087478287
+175,3026,S,Speed. How far you went. The distance. ,Rs,EX,-3.101464805,-2.098778004
+176,3026,T,"Right, odometer measures the distance ",Fy,EX,0.560933477,-0.757855131
+177,3026,T,and you speedometer measures what? ,Q,EX,-2.564082668,1.536919341
+178,3026,S,Average. Speed. ,Rs,EX,2.697420172,1.139191317
+179,3026,T,"Speed, ok? ",Fq,EX,-0.549568455,-0.143256524
+180,3026,T,So instantaneous speed means the speed I’m going when?,Q,OD,5.265772134,-3.189102426
+181,3026,S,When you start. ,Rs,OD,-5.10925708,-2.309483622
+182,3026,T,"Well any time, right?  ",Fy,OD,2.62468179,1.956476052
+183,3026,T, If I want to know my speed at any given time what am I going to look at? ,Q,EX,0.908258881,-2.703319005
+184,3026,S,The speedometer. ,Rs,EX,3.084205535,-1.900132612
+185,3026,T,"I’m going to look at my speedometer, and I’m going to know exactly how fast I’m going at that one moment. ",Fs,EX,5.702085448,-3.446896388
+186,3026,T,That’s instantaneous speed. ,E,SK,4.174988838,-2.544617522
+187,3026,T,"Now average speed, remember, is an average of all my what? ",Q,SK,3.252711561,1.605550583
+188,3026,S,Speeds. ,Rs,SK,-0.064009735,0.069426213
+189,3026,T,All my different speeds from point A to point B. ,Fs,SK,0.010471024,0.091088691
+190,3026,S,And then you divide by the number. ,Rs,SK,1.840476286,-7.552065621
+191,3026,T,"Right, so I can measure my speed exactly as I go up a hill, and I could later on give my average, so that’s two different things, ok?  ",Fq,SK,3.746716359,1.541325584
+192,3026,T,"We’re going to look at speed today and we’re going to do some calculations using some equipment that you see on your desk. Questions on your bell ringer? We need to jump back to yesterday for a minute. We did not get to finish our questions over equilibrium, did we? ",P,,3.180074705,-9.833161346
+193,3026,T,"T:  I know, I’m fixing it. Ok, so in your own words, what does equilibrium mean? ",Q,SK,7.620767138,-3.866826003
+194,3026,T,"Ok, we talked about equilibrium, ",P,SK,-0.171162005,1.22444763
+195,3026,T,"[inaudible], when an eco-system reaches that climax community, so let’s see what you all said. ",P,SK,2.98698987,7.948476079
+196,3026,T,"Alright, balance, eco-system balance, 50/50 the same, eco system that stays in balance. ",Fs,SK,7.843878904,-3.978258812
+197,3026,T,"I think the key word here is what, guys? ",Q,SK,-1.171242192,-2.801764402
+198,3026,S,Balance.,Rs,SK,4.274090785,-2.195333957
+199,3026,T,"Balance, meaning that we have reached a state… ",Fy,SK,1.478014366,4.064484897
+200,3026,T,"One, two, three, four… Key word meaning balance, meaning the level, the system, whatever system we’re talking about; ",E,SK,-1.263407611,-3.067553763
+201,3026,T," volcano, eco-system, you’re human body. ",E,OD,6.951431869,-3.532527598
+202,3026,T," What ever the system is it’s always trying to keep a stable condition; a balance of the systems, ok? ",E,OD,-1.537966359,-1.673789038
+203,3026,T," Like your body is always trying to balance temperatures, so I think you all got that pretty good. ",E,EX,7.843878902,-3.978258812
+204,3026,T, Then we talked about the stages of succession in order.,E,SK,-2.769488679,-3.8717808
+205,3026,T,Here were your choices. If we’re going from earliest to latest… ,P,SK,6.951431874,-3.532527599
+206,3026,T,"Where are you glasses, sweetie? ",Q,,-0.359721814,-1.052658651
+207,3026,S,I broke them. ,Rs,,-3.95193513,2.724740937
+208,3026,T,"They’re broken. Here, have a seat right here. ",Fs,,-0.015583922,6.923909206
+209,3026,T,That way we won’t block you in. ,P,,2.094053866,-8.50023903
+210,3026,T,"Alright, so which one would be the earliest stage that needs to be on top, Andrew? ",Q,SK,-3.158067261,1.912818663
+211,3026,S,Bare rock. ,Rs,SK,-2.339264625,-3.220930319
+212,3026,T,"Bare rock, right? ",Fy,SK,-0.920303758,-1.867279892
+213,3026,T,That’s after lava has hardened and we have nothing but bare rock. ,E,SK,-1.970365438,-3.336772605
+214,3026,T,Is there life there yet? ,Q,SK,-0.316827445,-0.78116347
+215,3026,S,No.,Ry,,-0.188144341,0.033322097
+216,3026,T,Is there soil there yet? ,Q,SK,1.921475258,1.475687565
+217,3026,S,No. ,Ry,SK,-0.188144341,0.033322097
+218,3026,T,"No, bare rock, ",Fy,SK,-2.339264625,-3.220930319
+219,3026,T,so what’s the next thing that can grow on bare rock? ,Q,SK,-2.769488678,-3.871780799
+220,3026,S,Minor species. ,Rs,SK,2.624681791,1.956476054
+221,3026,T,Minor species; ,Fy,SK,2.624681791,1.956476054
+222,3026,T,do they need soil to grow? ,Q,SK,0.569666309,2.027233741
+223,3026,S,Yes. No. ,Ry,SK,-5.109257114,-2.309483642
+224,3026,T,No.,Fy,SK,-0.188144341,0.033322097
+225,3026,T,So are shrubs going to be next? ,Q,SK,1.684855824,-0.512764577
+226,3026,S,Yeah. I put shrubs. ,Rs,SK,0.301910487,1.187934211
+227,3026,T,What do shrubs need to grow in? ,Q,SK,0.56966499,2.027233647
+228,3026,S,Soil. ,Rs,SK,1.921475258,1.475687565
+229,3026,T,Soil. ,Fy,SK,1.921475258,1.475687565
+230,3026,T,Is there any soil yet on bare rock? ,Q,SK,-0.70241368,-1.64002009
+231,3026,S,No. ,Ry,SK,-0.188144341,0.033322097
+232,3026,T,"No, so shrubs can’t be next, so it has to be pioneer species. ",Fs,SK,2.976285056,2.196870298
+233,3026,T,"Then when the pioneer species start breaking down that rock, to form soil, then we can have seedlings and shrubs, ",E,SK,3.609170932,2.629579933
+234,3026,T,and then the last stage? ,Q,SK,1.626218066,4.556267236
+235,3026,S,Virgin maple forest. ,Rs,SK,2.094053863,-8.500239084
+236,3026,T,"Ok, Tim, you got that order correct. ",Fs,SK,-1.865418298,0.804891837
+237,3026,T,"Some groups started with the pioneer species, ",Fs,SK,3.187247018,2.341106845
+238,3026,T," but remember, before the pioneer species, they have to grow on what? ",Fq,SK,3.187247018,2.341106845
+239,3026,S,Bare rock.,Rs,SK,-2.339264625,-3.220930319
+240,3026,T,Bare rock. ,Fy,SK,-2.339264625,-3.220930319
+241,3026,T,"Down here, bare rock was right, but someone put shrubs and seedlings next. ",E,SK,0.936356879,-0.057107697
+242,3026,T,Remember they can’t grow until you have soil.,E,SK,2.976285057,2.196870298
+243,3026,S,"[inaudible] bare rock, or virgin maple. ",Rs,SK,-0.163175322,-6.039394876
+244,3026,T,And then we’re getting a forest. ,E,SK,2.231005532,6.063915538
+245,3026,T,"Remember, we can’t have a climax community forest until we’ve gone thru the smaller stages, ok?",E,SK,2.550493501,-10.20695131
+246,3026,T,Remember your diagrams?,P,OD,0.693337937,0.331022519
+247,3026,S,Yes. ,Rs,OD,-5.109257114,-2.309483642
+248,3026,T,"Remember, you start with bare rock and you had to move your way up.",E,OD,-0.349689315,-1.398456537
+249,3026,T,This was right off your diagram; it was right off your diagram. ,E,OD,-1.171242189,-2.801764402
+250,3026,T,So we need to work on that a little bit for the final demo. ,P,,1.865453157,1.092053762
+251,3026,T,"This was primary, secondary or both. [inaudible]? ",Q,SK,1.737872631,-0.516748737
+252,3026,S,Primary. ,Rs,SK,1.802214183,-0.109505953
+253,3026,T,Primary. ,Fy,SK,1.802214183,-0.109505953
+254,3026,T,"Oh, you all did really good on that one. ",Fs,SK,-3.039270343,1.837638798
+255,3026,T,"Ok, that is primary. Only two of you all picked secondary. ",Fs,SK,0.774225537,-0.877592201
+256,3026,T,The end result is a climax community in which it’s reached equilibrium. ,E,SK,2.922191218,7.786942337
+257,3026,S,Primary. Secondary. ,Rs,SK,2.465667024,-0.157115303
+258,3026,T,"Primary, secondary, or is it both? ",Q,SK,2.465667024,-0.157115303
+259,3026,S,Both. ,Rs,SK,-0.188144341,0.033322097
+260,3026,T,It’s both. ,Fy,SK,-0.188144341,0.033322097
+261,3026,T,Four of you didn’t answer that. ,P,,-6.749628037,-3.090418888
+262,3026,T," Listen. Whether it’s primary or secondary, eventually each one is going to have soil, right?",E,SK,1.819772614,0.118096999
+263,3026,T,And eventually each one… Can each one support a stable eco-system after thousands of years?,Q,SK,-0.981600862,1.943593009
+264,3026,S,Yes. ,Ry,SK,-5.109257114,-2.309483642
+265,3026,T,"So each one, it’s ultimate goal is to reach what kind of community? ",Q,SK,-1.852654414,-2.124595047
+266,3026,S,Climax. ,Rs,SK,1.626218068,4.556267232
+267,3026,T,"Climax community, ",Fy,,2.231005537,6.063915615
+268,3026,T,"So it doesn’t matter if you start as primary when a volcano erupts, ",E,SK,3.428346392,2.505948572
+269,3026,T, or it doesn’t matter if it’s secondary if you have a forest fire. ,E,SK,-4.511524907,1.798439599
+270,3026,T,"Either way you need to try to get your climax community again, right? ",E,SK,1.525604149,2.703913466
+271,3026,S,Yes. ,Ry,SK,-5.109257114,-2.309483642
+272,3026,T,"Of course, after a forest fire…",Q,SK,-2.339264565,-3.220930374
+273,3026,S,Secondary. ,Rs,SK,1.802214182,-0.109505953
+274,3026,T,Secondary. ,Fy,SK,1.802214182,-0.109505953
+275,3026,T,Most of you all got that right; that’s good. ,Fy,,5.328900592,-1.474151231
+276,3026,T,True or false. A volcano reaches a state of equilibrium… ,Q,SK,2.922191215,7.786942335
+277,3026,S,True.,Rs,SK,-2.890257199,1.136520541
+278,3026,T,…after… ,Fq,SK,-0.188144341,0.033322097
+279,3026,S,True. ,Rs,SK,-2.890257199,1.136520541
+280,3026,T,After it erupts. ,Q,SK,-0.802580497,-1.738606964
+281,3026,S,True. ,Rs,SK,-2.890257199,1.136520541
+282,3026,T,True. ,Fq,SK,-2.890257199,1.136520541
+283,3026,T,"Remember, what is there more of under the crust before it erupts? ",Q,SK,-1.109798572,-2.624571494
+284,3026,S,Pressure. ,Rs,SK,-1.801484554,-2.407367215
+285,3026,T,Pressure. ,Fy,SK,-1.801484554,-2.407367215
+286,3026,T,And is that equal to the pressure outside the volcano? ,Q,SK,-2.769488679,-3.8717808
+287,3026,S,No. ,Ry,SK,-0.188144341,0.033322097
+288,3026,T,"No, so before it erupts it is in imbalance.",Fs,SK,-1.238005913,-1.294431011
+289,3026,T,It’s is in disequilibrium and the only way for it to even out is to do what?,Q,SK,1.052972604,-0.604886983
+290,3026,S,Erupts. ,Rs,SK,-0.802580497,-1.738606964
+291,3026,T,It has to erupt. ,Fy,SK,-2.890257199,1.136520537
+292,3026,T,"Once it erupts it released the pressure and we’re back in balance, so that would be true on that question. ",E,SK,-1.241463467,-3.004270582
+293,3026,T,"Ok, this was a fill in the blank. We talked about this. When you eat a big hamburger for lunch and you digest it you get an increase in what? ",Q,SK,-1.985815221,-2.297228421
+294,3026,S,Negative ,Rs,SK,-1.970098094,1.161020036
+295,3026,T,"Ok. Alright, yesterday we talked about speed – about what average speed vs. instantaneous speed meant. ",E,SK,3.338481496,-1.55697137
+296,3026,T,"Jason, can you throw your gum in the trash please? Thank you very much.  ",P,,2.835793008,7.571563995
+297,3026,T,"So we talked about average speed being an average of all the speeds of your total trip from point A to point B. All the speeds that you went… Remember, we talked about you’re not going to go the whole speed the whole time you’re driving, right?",E,SK,0.857173387,0.675511054
+298,3026,T,"You’re going to speed up or slow down,",E,OD,4.72038047,-2.866859978
+299,3026,T,so your average speed is going to be your total distance over what? Your total what?,Q,SK,4.003697196,0.662692883
+300,3026,S,Time. ,Rs,SK,1.921475255,1.475687562
+301,3026,T,"Time, right? Thank you, Marcus; total time. ",Fs,SK,1.282715861,0.268051525
+302,3026,T,So instantaneous speed – what is instantaneous speed again?,Q,SK,5.047615476,-3.060205447
+303,3026,S,Speed that [inaudible] ,Rs,SK,1.907633509,-1.798638088
+304,3026,T,"It’s the speed that you’re going at, but at any one given time – at that instant. ",Fs,SK,3.197532671,-2.238316215
+305,3026,T,Think of the word instantaneous. ,E,SK,-1.47558462,-2.17034559
+306,3026,T, It means at that one instant how fast are you going. ,E,SK,5.047615475,-3.060205445
+307,3026,T,"Cory, let me see your pass, sweetie. ",P,,-0.928703762,1.816241614
+308,3026,T,What do I mean by constant speed? ,Q,SK,4.720380486,-2.866859974
+309,3026,T,You’ll find that on 134. ,P,,-1.364476842,8.25919459
+310,3026,T,What is the constant speed? ,Q,SK,4.174988838,-2.544617522
+311,3026,S,Staying the same? ,Rs,SK,-1.186850385,-1.26142819
+312,3026,T,Yeah. What’s staying the same for a period of time?,Fq,SK,-0.486003895,-0.778217946
+313,3026,S,Speed? ,Rs,SK,3.084205537,-1.900132612
+314,3026,T,Your speed; constant speed. ,Fs,SK,4.720380486,-2.866859974
+315,3026,T,"So if you’re going at a constant speed of 50, that means you’re not going to increase or decrease your speed; ",E,OD,5.702085454,-3.44689639
+316,3026,T,you’re just going to stay the same. ,E,OD,-0.3215303,1.040965008
+317,3026,T,"So if we graph that, you’re going to notice that your graph isn’t going anywhere because you’re going to stay steady at a constant speed.",E,PD,1.327671231,-2.475836409
+318,3026,T,You’ll see more what I’m talking about when we get into our lab today. ,P,,2.996429295,-0.195202784
+319,3026,T,"And then we need to look at the relationship between velocity and acceleration, ",P,,-5.725113842,3.417976018
+320,3026,T,"and the only way to do this is to actually get involved, and we’re going to do some motion graphing today, ",P,,3.294983074,-0.216626991
+321,3026,T,"ok? So what is velocity? We haven’t really hit on this much yet, but just give me the definition for velocity. ",Q,SK,-4.67728681,3.080599031
+322,3026,S,Velocity?,Rs,SK,-3.95193513,2.724740937
+323,3026,T,Uh huh. ,P,,-1.007392561,-2.329249987
+324,3026,S,Velocity is the speed of an object in the direction it’s headed.,Rs,SK,-4.691665773,1.871986166
+325,3026,T,"Ok, so velocity is the speed of an object in the direction it’s headed, ok? ",Fs,SK,-4.916841847,1.96391937
+326,3026,T,There’s a nice little picture of that on 135. ,P,,-1.171242187,-2.801764402
+327,3026,T,It shows someone walking around a park. ,E,OD,6.505208229,-3.309661914
+328,3026,S,Mine’s got a [inaudible] ,Rs,OD,-0.359721808,-1.05265866
+329,3026,T,"Those balls are actually showing acceleration, ",E,OD,2.996429286,-0.195202776
+330,3026,T,"so my next question is: What is the relationship between velocity and acceleration, ok?  ",Q,SK,-5.132766667,2.636430279
+331,3026,T,"Velocity we’re looking at the direction; we’re speeding and we have to go in a direction, right? ",E,OD,-0.695995723,2.215234025
+332,3026,T,"If we’re speeding we’re moving, aren’t we? ",Q,OD,-0.8824188,1.704809175
+333,3026,S,Acceleration means speeding up. ,Rs,SK,-1.511518429,9.287428636
+334,3026,T,Acceleration means it’s speeding up? ,Fq,SK,-1.511518429,9.287428636
+335,3026,S,It changes velocity. ,Rs,SK,-1.487763264,4.842898083
+336,3026,T,"Ok, so the change in velocity,",Fs,SK,-5.833830516,4.070450349
+337,3026,T,which means what’s changing? ,Fq,SK,-5.206532044,3.621880552
+338,3026,S,The speed.,Rs,SK,3.084205537,-1.900132612
+339,3026,T,Or the… ,Fq,SK,-0.188144341,0.033322097
+340,3026,S,Or the direction. ,Rs,SK,-2.890257203,1.13652054
+341,3026,T,Or the direction.,Fs,SK,-2.890257203,1.13652054
+342,3026,T,"So that’s how velocity and acceleration are related,",E,SK,-5.833830525,4.070450358
+343,3026,T,because the acceleration is when you change speed or you change direction. ,E,SK,-5.981619861,3.801697006
+344,3026,T,"Ok, now let’s look at the graph. ",P,,-3.7021501,0.9111603
+345,3026,T,This is a time graph. ,E,OD,-1.238005906,-1.294431002
+346,3026,T, Shh. One… Put the calculator down for a second. ,P,,4.720380472,-2.866859951
+347,3026,T,"Look up here. Cory. Alright, we have a time graph. ",P,OD,2.293678924,1.566855409
+348,3026,T,What is on our axis?,Q,OD,-5.109257096,-2.309483638
+349,3026,S,TS. ,Rs,OD,3.084205545,-1.900132618
+350,3026,T,"What does the T stand for, probably?",Q,OD,-0.089621922,8.419267128
+351,3026,S,Time. ,Rs,OD,1.921475255,1.475687562
+352,3026,T,Time. ,Fy,OD,1.921475255,1.475687562
+353,3026,T,What does the S stand for? ,Q,SK,-1.364476847,8.259194596
+354,3026,S,Distance. No. ,Rs,SK,-5.109257102,-2.309483636
+355,3026,T,S. ,Q,SK,-0.188144341,0.033322097
+356,3026,S,Speed. ,Rs,OD,3.084205537,-1.900132612
+357,3026,T,What is speed? ,Q,SK,3.084205537,-1.900132612
+358,3026,T,What is the measure of the speed? ,Q,SK,1.575086366,-0.423196917
+359,3026,T,Distance over what? ,Q,SK,-5.109257102,-2.309483636
+360,3026,S,Time. ,Rs,SK,1.921475255,1.475687562
+361,3026,T,"Time,",Fy,SK,1.921475255,1.475687562
+362,3026,T,so what unit would S be for time? ,Fq,SK,-2.062473124,-0.566971419
+363,3026,T,I know you all aren’t awake.,P,,-2.195182641,-2.905274625
+364,3026,T,"If we’re on the highway we say we measure miles per hour, ",E,OD,-1.215633729,4.97701505
+365,3026,T,so what would the S be? ,Q,SK,-0.188144341,0.033322097
+366,3026,S,Miles per hour? Second?,Rs,SK,-1.511518411,9.287428662
+367,3026,T,Nope.,Fy,SK,1.626218068,4.556267238
+368,3026,S,Speed. Speed. ,Rs,SK,4.174988836,-2.54461752
+369,3026,T,Thank you. We’re doing meters. ,Fs,SK,2.797393441,-0.18091998
+370,3026,S,Miles per second. ,Rs,SK,-1.364476847,8.259194595
+371,3026,T,"We just set up what unit for distance, guys? ",Q,SK,-8.389998921,-3.871354116
+372,3026,S,Meters. ,Rs,SK,-0.316827442,-0.78116347
+373,3026,T,"Meters, so we’re going meters per second. ",Fs,SK,-0.394037299,-1.26985481
+374,3026,T,"So you see on the X axis we have our time in seconds, ",E,OD,-0.915288294,1.882202765
+375,3026,T,and on our Y what do we have? ,Q,OD,-0.188144341,0.033322097
+376,3026,S,Distance. ,Rs,OD,-5.109257102,-2.309483636
+377,3026,T,We have our distance in meters. ,Fs,OD,-3.554674917,-2.07153877
+378,3026,T,"So Jason, what he’s going to do is he has to look at the graph",E,OD,3.393237955,-2.678110031
+379,3026,T,"and he has to figure out where to start,",E,OD,2.624681783,1.95647605
+380,3026,T,and he’s going to walk in front of the motion detector ,E,OD,4.155500173,-2.029668426
+381,3026,T,and it’s going to record where he’s walking.,E,OD,-5.833830493,4.070450337
+382,3026,T,It’s going to record where he’s walking. ,E,OD,-5.833830493,4.070450337
+383,3026,T,So he’s going to try to match the graph on the screen. ,E,OD,-1.212204593,-2.919893005
+384,3026,T,"I’m just going to give you a clue, ",E,OD,2.645962473,-0.315811787
+385,3026,T,so you need to study it so you know where to start. ,E,OD,2.714835497,7.270034288
+386,3026,T,"So look at, look at where the graph starts. ",E,OD,-1.78607401,-2.038278363
+387,3026,T,"How many meters should he be from this motion detector, Lavelle? ",Q,OD,6.951431868,-3.532527597
+388,3026,S,One. Four. ,Rs,OD,-0.188144341,0.033322097
+389,3026,T,"Ok, here’s some good graphs.",E,OD,6.505208346,-3.309661987
+390,3026,T,Who’s this right here?  Let me get it going. ,P,OD,1.15178397,0.339376694
+391,3026,T,Let me get these graphs up. ,P,OD,-3.790961482,1.50425335
+392,3026,T,Look at number one. ,P,OD,1.840476283,-7.552065611
+393,3026,T,Describe how you had to match your graph to each segment of the graph. ,P,OD,-1.447978229,-1.559981631
+394,3026,T,"So if your graph was going at a slope that was a steep slope, what did you have to do? ",Q,OD,1.30303955,-0.107402276
+395,3026,T,If it was a straight line what did you have to do? ,Q,OD,-3.2631369,-2.910009788
+396,3026,S,Oh.,Ry,,-1.970098092,1.161020038
+397,3026,T,"This person did a really good job, I think.",Fs,,-3.242922199,1.966518559
+398,3026,S,That was mine. ,Rs,,-0.188144341,0.033322097
+399,3026,T,"Oh, it was? ",Fq,,-1.970098092,1.161020038
+400,3026,S,Uh unh. It can’t be.,Rs,,2.62468178,1.956476041
+401,3026,T,"So this one did pretty good, too. ",Fs,,2.950079286,-1.398721774
+402,3026,S,That’s mine. That one in the corner is messed up; that’s mines. ,Rs,,-6.412491518,1.553338063
+403,3026,T,Mines or just mine? ,Fs,,-3.025956572,-1.288903342
+404,3026,S,Mines ain’t a word. ,Rs,,-7.569813497,-3.480886512
+405,3026,T,It’s not a word. ,Fs,,-0.802580503,-1.738606965
+406,3026,S,There it goes. Mines ain’t no word. ,Rs,,-8.061924775,-3.715167086
+407,3026,S,Mine is a word that you can barely see. ,Rs,,-1.007392551,-2.329249987
+408,3026,S,Mines is mines. That’s mine right there. ,Rs,,-4.054447316,-1.588300911
+409,3026,T,"Look at this one. Describe to me on your particular graph, on number one,",P,OD,0.39911109,-5.314562393
+410,3026,T,"what did you have to do in order to match the segment of the graph,  ",Q,OD,-1.212204601,-2.919893007
+411,3026,T,ok? So for this graph what did he have to do to make it a straight line? ,Q,OD,-2.471942497,-3.167378202
+412,3026,S,Be still? ,Rs,OD,-0.188144341,0.033322097
+413,3026,T,"He had to be still, right? ",Fy,OD,1.921475255,1.475687561
+414,3026,T,So that’s what you should be describing to me.,P,OD,1.626218068,4.556267238
+415,3026,T,What did you have to do to make the line go down? ,Q,OD,-1.109798575,-2.624571495
+416,3026,S,Move closer. ,Rs,OD,-0.802580492,-1.73860696
+417,3026,T,"You had to move closer to the wall, right? ",Fs,OD,-1.109798568,-2.62457149
+418,3026,T,"Ok, what did you have to do to make the line go up? ",Q,OD,-1.171242191,-2.801764401
+419,3026,S,Move back. ,Rs,OD,-0.188144341,0.033322097
+420,3026,T,"You had to go back,",Fs,OD,-0.188144341,0.033322097
+421,3026,T,because you’re increasing your what? On the X axis? ,Fq,OD,5.761502375,-2.938219318
+422,3026,S,"Um, um… ",Ry,,-1.007392549,-2.329249987
+423,3026,T,Your distance. ,Fs,OD,-5.109257102,-2.309483636
+424,3026,T,Ok? So is direction important on your graph? ,Q,OD,-1.746868928,1.013294703
+425,3026,S,Yeah. ,Ry,OD,1.009787533,0.650915569
+426,3026,T,"Yes, that’s where your velocity comes in",Fs,OD,-6.412491517,1.553338065
+427,3026,T,your direction and your speed. ,E,OD,-0.623296178,-0.105782774
+428,3026,T,"Now, how fast…. Does your speed effect the graph? ",Q,PD,0.994716137,-2.550397982
+429,3026,T,The straightness of it? ,Q,PD,-1.186850386,-1.261428191
+430,3026,S,Yes. ,Ry,PD,-5.109257114,-2.309483642
+431,3026,T,How? How does speed come into play here? ,Fq,PD,0.062096355,6.663225464
+432,3026,S,Because you’ve got to [inaudible] back. ,Rs,PD,-0.381168994,-1.188406257
+433,3026,T,You’re got to what?,Fq,PD,4.274090754,-2.195333949
+434,3026,S,Move back. ,Rs,PD,-0.188144341,0.033322097
+435,3026,S,Move as fast as you can then [inaudible]. ,Rs,PD,-0.359721808,-1.052658661
+436,3026,T,If you went faster what happened to your line? ,Q,PD,-1.447978219,-1.559981627
+437,3026,T,What happened to the line? You’re getting there.,Q,OD,2.533399267,6.817739779
+438,3026,T,You said you had to hurry up and get there. ,P,OD,-0.805277191,1.519088361
+439,3026,T,"Why did you have to hurry up, because what were you trying to do? ",Q,OD,-1.109798573,-2.624571493
+440,3026,S,Match the line. ,Rs,OD,-1.007392548,-2.329249986
+441,3026,T,Match that line. ,Fy,OD,-1.007392548,-2.329249986
+442,3026,T,Ok? So why do you need to go fast for some lines and slower for some lines? ,Q,PD,-1.241463464,-3.00427058
+443,3026,S,"Some, when you’re like that, you got to go up or down. ",Rs,PD,5.761502487,-2.938219306
+444,3026,T,"Ok, so you’re talking about the slant of the line?",Fq,PD,-1.17124219,-2.801764402
+445,3026,S,Yeah. ,Ry,PD,1.009787533,0.650915569
+446,3026,T,"Ok, we call that slope. ",Fs,SK,-0.662647225,0.67356902
+447,3026,T,Remember slope from math class? ,P,SK,3.187247017,2.341106837
+448,3026,T,The slope of the line?,P,SK,2.465667004,-0.157115314
+449,3026,T,"So how steep this line is, the slope of the line, that is your what? ",Q,SK,2.996429295,-0.195202784
+450,3026,S,Speed? ,Rs,SK,3.084205537,-1.900132612
+451,3026,T,That’s your speed. ,Fy,SK,3.084205537,-1.900132612
+452,3026,T,"How steep this line is is dependent on how fast you are going, isn’t it? ",E,SK,3.223898842,-0.21152599
+453,3026,T,"If you notice, if you ran real quickly it went steeper, but if you were slow it went up very slowly, right? ",E,PD,2.578156513,-10.31038842
+454,3026,T," Remember, it’s measuring your distance over time. ",E,PD,2.942646174,-0.624693932
+455,3026,T,"So if you’re going faster you’re going over more distance in less time and that’s why your graphs are going to steeper, ok? ",E,PD,5.946261735,-1.712598159
+456,3026,T,"Alright, can someone tell me what we mean by constant speed? ",Q,SK,5.265772131,-3.189102423
+457,3026,T,"George, put the money up unless you’re going to buy me more pencils. ",P,,-0.408743943,-1.362938876
+458,3026,S,That’s all I got.,Rs,,4.274090754,-2.195333949
+459,3026,T,"What is meant by constant speed. George, [inaudible]. ",Q,SK,2.998416807,-2.443122995
+460,3026,S,The same speed? ,Rs,SK,3.084205537,-1.900132612
+461,3026,T,"The speed stays the same, ok?",Fy,SK,-4.241313614,1.688119752
+462,3026,T,"That means your not accelerating, you’re not decelerating, you’re not slowing down or speeding up. ",E,SK,1.808408781,1.062644553
+463,3026,T,It’s staying constant; it’s staying the same. ,E,SK,-1.686203404,-1.908803335
+464,3026,T,And when you do your time graphs in just a minute you’re going to realize what happened when you do not move or you stay the same. ,E,OD,7.744718116,-3.928733116
+465,3026,T,What is the relationship between acceleration and velocity? Tell me what velocity is. ,Q,SK,-4.601744595,5.129528922
+466,3026,S,Speed? ,Rs,SK,3.084205537,-1.900132612
+467,3026,T,"It deals with speed, but what else? ",Fq,SK,2.697420174,1.139191312
+468,3026,S,The direction. The direction of the motion. ,Rs,SK,-4.241313633,1.68811976
+469,3026,T,The direction of motion.,Fy,SK,-3.790961482,1.50425335
+470,3026,T,"So we’re adding speed which is our rate of distance over time and we’re giving it direction, meaning, what direction are we going to walk in? ",E,SK,2.076435107,1.853010418
+471,3026,T,So if you look at that picture on page 134 it shows the path of someone walking around a park. ,E,OD,7.744718102,-3.92873311
+472,3026,T,"Do me a favor – run up to Ms. C[inaudible]’s, Ms. [inaudible] and Ms. [inaudible]’s room and see if any of these kids are in there because I owe them a lunch pass, ok? If they’re there, give it to them; if not, [inaudible]. ",P,,-0.42942516,-1.493838342
+473,3026,T,So velocity means – it’s depending on speed and direction. ,E,SK,0.528148005,-0.424657457
+474,3026,T,"So if I’m walking a straight line, what could I do to change my velocity? ",Q,OD,-6.461128983,4.519020154
+475,3026,S,Run. ,Rs,OD,-0.316827445,-0.78116347
+476,3026,T,"I could go faster; I could start running, right?",Fs,OD,3.048094201,3.792964228
+477,3026,T,"That’s one way of changing velocity. Or, what if I stay at the same speed; I’m walking and walking and walking and I turn over here.",E,OD,-6.962967752,4.877876003
+478,3026,T,Will I change velocity? ,Q,OD,-5.20653206,3.62188055
+479,3026,S,No. Yes. You change like motion. ,Rs,OD,-4.294933951,0.449437326
+480,3026,T,When I turn I change what?,Q,OD,-5.20653206,3.621880551
+481,3026,S,Velocity. Motion. Direction. ,Rs,OD,-4.241313686,1.688119838
+482,3026,T,I change direction. ,Fs,OD,-4.498746774,2.563066951
+483,3026,T,"I may be going the same speed, but I changed directions so I have changed my velocity.",E,OD,0.950537761,2.727399573
+484,3026,T,So how is velocity related to acceleration? What’s the relationship between that? Those two things? ,Q,SK,-6.461128989,4.519020164
+485,3026,S,"Velocity, wants to be in the direction of motion and acceleration is change in velocity? ",Rs,SK,-5.649961136,3.477378609
+486,3026,T,Acceleration is what? Say it louder? ,Fq,SK,-2.198722839,0.564545952
+487,3026,S,Acceleration is the speed – is the change in velocity? ,Rs,SK,-6.210209571,4.339592221
+488,3026,T,"Acceleration is the change of velocity, ok?",Fy,SK,-6.210209585,4.339592217
+489,3026,T,"So we know velocity means I must be in motion, I can change my speed, and I have to be moving in a particular direction, ok? ",E,SK,-4.269121466,1.358238237
+490,3026,T,"And I’m moving right now, so do I have velocity? ",Q,OD,-1.246654756,2.657376598
+491,3026,S,No. ,Ry,OD,-0.188144341,0.033322097
+492,3026,T,"No. My speed is zero, but I’m not going in any direction right now, but once I move to a different direction I can change my velocity.",Fs,OD,-1.031731662,2.453328242
+493,3026,T,"Ok, let’s answer one and two. Let’s look at a few of these graphs. ",P,OD,-4.820337817,1.924519425
+494,3026,T,"Tell me, and this is just your first try. ",P,,1.010784726,1.717626875
+495,3026,T,"This was just your first try, so let’s look at this one. ",P,,-2.116436337,0.454146621
+496,3026,T,"This one turned out pretty good, ok? ",P,,5.689422598,-1.853156919
+497,3026,T,So what did this person have to do to match this graph? ,Q,OD,-1.17124219,-2.801764402
+498,3026,S,[inaudible]. Walk a lot.,Rs,OD,0.492712158,-0.776799067
+499,3026,T,Hold on. You’ve got to tell me where he had to start; ,P,OD,2.835793005,7.57156398
+500,3026,T,you’ve got to be specific in your description.,P,OD,-3.039270282,1.837638762
+501,3026,T,You have to start how far away from the wall? ,P,OD,-4.616583462,-3.258465714
+502,3026,S,One? ,Rs,OD,-0.188144341,0.033322097
+503,3026,T,He had to start one foot away ,Fs,OD,-7.569813498,-3.480886511
+504,3026,T,and then which way did he have to walk? ,Q,OD,-0.974918835,1.089606009
+505,3026,S,Backwards. ,Rs,OD,-3.95193512,2.72474093
+506,3026,T,He had to go back. ,Fs,OD,-0.188144341,0.033322097
+507,3026,T,How many meters back did he have to go? ,Q,OD,-1.461902243,0.242130342
+508,3026,S,Three. One. ,Rs,OD,-0.188144341,0.033322097
+509,3026,T,One.,Fy,,-0.188144341,0.033322097
+510,3026,T,See how that ended up one extra meter?,Q,OD,-2.608154659,-3.627711869
+511,3026,S,Yeah. ,Rs,OD,1.009787533,0.650915569
+512,3026,T,How long did he have to walk back to that other meter? ,Q,OD,-1.600743893,3.195737666
+513,3026,S,Three.,Rs,OD,-0.188144341,0.033322097
+514,3026,T,How long did it [inaudible]? ,Q,OD,-2.034439645,0.753777251
+515,3026,S,Three? ,Rs,OD,-0.188144341,0.033322097
+516,3026,T,"Ok, ",Fy,OD,-2.89025719,1.136520531
+517,3026,T,so he had to walk back for how many seconds? Count. How many seconds? How many seconds did he have to walk backwards for?,Q,OD,-3.356062125,2.038118433
+518,3026,S,Three. ,Rs,OD,-0.188144341,0.033322097
+519,3026,T,"Three, right? ",Fy,OD,1.921475255,1.475687561
+520,3026,T,So he had to judge it. How did we get that straight line? ,Q,PD,-4.616583497,-3.258465707
+521,3026,S,Just stay there. ,Rs,PD,-1.898716946,2.239330301
+522,3026,T,"He stopped, right? ",Fy,PD,2.62468178,1.956476052
+523,3026,T,And what was our speed at that point?,Q,PD,4.17498882,-2.544617513
+524,3026,S,Zero. ,Rs,PD,1.976029044,0.862724015
+525,3026,T,"Zero; you weren’t moving, were you? ",Fs,PD,3.058115733,1.277424975
+526,3026,T,"Then, what did we do here? How long did he have to stand there and do nothing? ",Q,OD,-3.039270345,1.837638802
+527,3026,S,Like four seconds. ,Rs,OD,-2.564082655,1.536919337
+528,3026,T,"Yeah, about one, two, three, four seconds, ",Fs,OD,-0.57749226,1.196849704
+529,3026,T,and after four seconds what did he have to do? ,Q,OD,-2.564082678,1.536919348
+530,3026,S,Walk back. ,Rs,OD,-1.970098094,1.161020036
+531,3026,T,"Walk forward again, right? Ok.",Fs,OD,-0.856042838,0.025547231
+532,3026,T,"now at that point, at what two points did the velocity change on this? Remember what – for velocity to change are what two thing? ",Q,PD,-3.81361313,0.414528111
+533,3026,S,Velocity. ,Rs,PD,-3.95193513,2.724740937
+534,3026,T,What two things make up velocity? ,Q,SK,-5.833830521,4.070450353
+535,3026,S,Speed. ,Rs,SK,3.084205537,-1.900132612
+536,3026,T,Speed or… ,Fq,SK,3.084205537,-1.900132612
+537,3026,S,Direction. ,Rs,SK,-2.890257203,1.13652054
+538,3026,T,Direction. ,Fy,SK,-2.890257203,1.13652054
+539,3026,T,So can you tell me the two places on this graph where he changed velocity? ,Q,PD,-2.492602843,-0.397291385
+540,3026,S,In the middle. ,Rs,PD,-0.802580497,-1.738606966
+541,3026,T,One – we’re almost done – two… ,Fs,PD,-0.188144341,0.033322097
+542,3026,S,Where it changed? ,Rq,PD,-1.070393721,6.202726471
+543,3026,T,Show me where he changed velocity. Show me.,P,PD,-3.285504454,5.940537572
+544,3026,T,At what specific point did he either change speed or change direction. ,Q,PD,-3.306563406,2.006793489
+545,3026,T,"One, two – Gene, you need to sit in the back, please.",P,,-7.569813491,-3.480886505
+546,3026,S,Alright. ,Ry,,-1.970098078,1.161020032
+547,3026,T,"…three, four. Johnny, come help him out. ",P,,-2.86107497,1.724869008
+548,3026,T,"Where did he either change speed or change direction? Hold on, what specific point? ",Q,PD,-3.356062122,2.038118432
+549,3026,S,[inaudible] ,,,-0.316827444,-0.781163471
+550,3026,T,"You all listening? One, two, three… Alright. ",P,,-2.564082678,1.536919344
+551,3026,T,"You see right here? What happens at this point? Right here at this point, what happened? What did he do? ",Q,OD,1.274928027,-3.295917259
+552,3026,S,He stopped. ,Rs,OD,-2.890257201,1.13652054
+553,3026,T,He stopped. ,Fy,OD,-2.890257201,1.13652054
+554,3026,T,Did he change his speed? ,Q,PD,-2.861074942,1.724868989
+555,3026,S,"No. If he stops he changes speed, yes. Oh, yeah. Yeah.",Rs,PD,1.359402606,2.665262512
+556,3026,T,"Ok, what about right here? What did he change?",Q,OD,-2.67067488,-0.676729102
+557,3026,T,"Guys, I’m not talking over you. ",P,,-1.00739255,-2.329249982
+558,3026,T,What did he change right here? Raise your hands. ,Q,PD,-0.573514294,1.280451229
+559,3026,S,He walked forward. ,Rs,PD,-1.5197524,-1.69301162
+560,3026,T,"He walked forward, ",Fy,OD,-1.5197524,-1.69301162
+561,3026,T,so what did he change when he started to walk forward? ,Q,PD,-0.643192422,1.065801337
+562,3026,S,Velocity.,Rs,PD,-3.95193513,2.724740937
+563,3026,T,"Why, because he changed what about velocity? ",Fq,PD,-3.285504454,5.940537572
+564,3026,S,Direction.,Rs,PD,-2.890257203,1.13652054
+565,3026,T,"Direction, thank you. ",Fy,PD,-0.662647236,0.673569027

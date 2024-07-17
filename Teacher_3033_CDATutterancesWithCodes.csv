@@ -1,0 +1,713 @@
+﻿number,TeacherID,speaker,utterance,ut,rc
+1,3033,T,"Alright, let us do science. Who wants to do catch? Question for Stephanie. ",P,NA
+2,3033,T,"Guys, as we go through the review, pay attention because everything you answer on the sheet you can turn in at test time and get credit.",P,NA
+3,3033,T,"Alright? Stephanie your question is Number 8, “What flows in the water?” Number 8 --what flows in the water? ",Q,SK
+4,3033,S,Electricity? I do not know. ,Rs,SK
+5,3033,T,Okay. Electricity would be correct so I cannot say it is wrong. ,Fy,SK
+6,3033,T,"What flows in water, Curt? ",Q,SK
+7,3033,S,Current.,Rs,SK
+8,3033,T,Current very good! ,Fy,SK
+9,3033,T,"Ed, what flows in the water? ",Q,SK
+10,3033,S,Electrons.,Rs,SK
+11,3033,T,"Electrons, very good! ",Fy,SK
+12,3033,T,There is one more I can think of. Megan. ,Q,SK
+13,3033,S,Amps. ,Rs,SK
+14,3033,T,Amps is current. Very good!,Q,SK
+15,3033,T,Kate. ,P,SK
+16,3033,S,"Catch the ball, Kate!",P,NA
+17,3033,S,Volts? ,Rs,SK
+18,3033,T,"Alright. Kate said, “Voltage.” Kate said voltage. ",Fy,SK
+19,3033,T,Ray. Would we say that is correct? ,Fq,SK
+20,3033,S,No! ,Ry,SK
+21,3033,T,"Ray said, “Voltage flows.” Voltage exists as energy; that is different points of a circuit.",Fs,SK
+22,3033,T,"Finally, Alexia. I just said something else that flows in a circuit. I just said the word.",P,SK
+23,3033,S,Electricity. ,Rs,SK
+24,3033,T,"Did anybody catch that? What else flows in a circuit? To review: current, amps, electricity, joules.",Fq,SK
+25,3033,S,Wrong! ,Rs,SK
+26,3033,S,Electrons. ,Rs,SK
+27,3033,T,"Electrons. Julie, voltage does not. ",Fy,SK
+28,3033,T,Alright pretty good!,Fy,SK
+29,3033,T,Okay. Review. What flows in a circuit? ,Q,SK
+30,3033,S,"Electrons, electricity, watts.",Rs,SK
+31,3033,T,"Electrons, electricity, moles, amps, current, watts. Alright. ",Fy,SK
+32,3033,T,"Next question. A different question. What is? Megan, what is your question?",P,NA
+33,3033,T,Okay. One last question. What is joules? Jimmy said joules. What is joules? Ray. ,Q,SK
+34,3033,S,Work.,Rs,SK
+35,3033,T,Well it is related to work. ,Fs,SK
+36,3033,T,Work and? ,Fq,SK
+37,3033,S,Amps! ,Rs,SK
+38,3033,T,It starts with an “E.”,Fq,SK
+39,3033,S,Electricity! ,Rs,SK
+40,3033,T,Energy. Very good Nolan. ,Fy,SK
+41,3033,T,Okay. What is another question? ,Q,NA
+42,3033,S,What number was that? What number was that? ,Rq,NA
+43,3033,T,Number 8. ,Fy,NA
+44,3033,S,What flows into water? ,Rq,SK
+45,3033,T,Joules. The one I just asked. What are joules? Energy. I do not know if that is on here. Okay. Let us go to.,E,SK
+46,3033,T,Number 12. How do you use an ammeter? ,Q,SK
+47,3033,S,"Oh, I know! ",Rs,SK
+48,3033,T,Nolan. No actually you do not.,Fy,SK
+49,3033,T,An ammeter is this. And there is no on or off switch.,Fs,NA
+50,3033,S,"Oh, I get it! ",Ry,NA
+51,3033,T,How do you use an ammeter? Ed? ,Q,SK
+52,3033,S,Battery on the end of it? ,Rs,SK
+53,3033,S,Through a circuit. ,Rs,SK
+54,3033,T,How do you test it?,Q,SK
+55,3033,S,In a series. ,Rs,SK
+56,3033,T,In a series. Very good! ,Fy,SK
+57,3033,T,What does an ammeter do? ,Q,SK
+58,3033,S,It measures the Y.,Rs,SK
+59,3033,T,No. It measures something. Okay. ,Fs,SK
+60,3033,T,What does an ammeter do?,Q,SK
+61,3033,S,Measures volts? ,Rs,SK
+62,3033,S,Amps? ,Rs,SK
+63,3033,T,Amps. Ammeter think amps; current. ,Fs,SK
+64,3033,S,I know. I thought we said amps. ,Rs,SK
+65,3033,T,Alright. How do you use a voltmeter? ,Q,SK
+66,3033,S,Amps. ,Rs,SK
+67,3033,S,I know this one. ,Rs,NA
+68,3033,T,You do not turn it on. Do you want to try it? ,P,NA
+69,3033,S,What is a voltmeter? ,Rq,SK
+70,3033,T,What you do it. You turn it on where? ,P,SK
+71,3033,S,555? ,Rq,SK
+72,3033,T,How is it wired Nolan? In a series or parallel? ,Q,OD
+73,3033,S,Parallels?,Rs,OD
+74,3033,T,Parallels. ,Fy,OD
+75,3033,S,I am a genius! ,Rs,NA
+76,3033,S,Hey! Uh oh!,NA,NA
+77,3033,T,Did everybody get that one? ,P,NA
+78,3033,T,Voltmeter is wired in parallel. ,E,SK
+79,3033,T,Okay here is one. Number 18.,P,NA
+80,3033,S,What number? Number? ,Rq,NA
+81,3033,T,Eighteen. What is a series circuit? James?,Q,SK
+82,3033,S,A series circuit is when it is wired and. ,Rs,SK
+83,3033,S,To more than one outlet. ,Rs,SK
+84,3033,T,Okay. Why in a series? ,Q,SK
+85,3033,S,More than one volt. ,Rs,SK
+86,3033,S,More than one load; source. ,Rs,SK
+87,3033,T,No it does not have to be. ,Fy,SK
+88,3033,S,What are you talking about? ,Rq,SK
+89,3033,T,It deals with. Shhhh! Guys. ,P,NA
+90,3033,T,How many paths for the electricity to flow does a series circuit have? ,Q,SK
+91,3033,S,More than one.,Rs,SK
+92,3033,T,A series circuit is a circuit that has only one path for electrons to flow. ,Fs,SK
+93,3033,T,Okay? It is more than one in the same.,E,SK
+94,3033,S,Good catch! ,Rs,SK
+95,3033,T,So Megan what is parallel circuit? ,Q,SK
+96,3033,S,More than one path? ,Rs,SK
+97,3033,T,More than one path. Parallel circuit.,Fs,SK
+98,3033,T,Number 19. More than one path is a parallel circuit—Number 19. Alright. ,E,SK
+99,3033,S,More than one path. ,Rs,SK
+100,3033,S,What is a series? ,Rq,SK
+101,3033,T,Alright. Who can? Number 25. What properties of a wire affect its resistance? Abby?,Q,SK
+102,3033,S,Its width? ,Rs,SK
+103,3033,T,Width. Okay. ,Fy,SK
+104,3033,T,Can you think of anything else? ,Q,SK
+105,3033,S,If is straight or. ,Rs,SK
+106,3033,T,Okay. If it is straight or bent. Good!,Fy,SK
+107,3033,S,"Oh, what a catch! ",Rs,SK
+108,3033,T,Alright. It is straight or bent.,Fy,SK
+109,3033,T,Michael. ,Q,SK
+110,3033,S,Density? ,Rs,SK
+111,3033,T,The density would be correct because the density refers to the type of material that the electrons are flowing.,Fs,SK
+112,3033,T,And every material has somewhat slightly different densities. ,E,SK
+113,3033,T,So that would be correct. Very good! Thank you. ,Fy,SK
+114,3033,T,Vicky.,Q,SK
+115,3033,S,Light. ,Rs,SK
+116,3033,T,Light. Very good! ,Fy,SK
+117,3033,T,"So the three major [inaudible]. We looked at length, type of material, and width.",E,SK
+118,3033,T,"So those three, density goes with type of material. ",E,SK
+119,3033,T,"And there is a fourth, which Abby mentioned.",E,SK
+120,3033,T,Bent and kinked and things like that. ,E,SK
+121,3033,T,Did you guys get that? ,Fq,SK
+122,3033,S,No! ,Ry,SK
+123,3033,T,Okay. What did I say? ,Fq,SK
+124,3033,S,The wires. ,Rs,SK
+125,3033,T,You are listening. Great!,Fs,NA
+126,3033,S,Length. Length. Length. ,Rs,SK
+127,3033,T,Length. ,Fy,SK
+128,3033,S,Width. ,Rs,SK
+129,3033,T,Width. ,Fy,SK
+130,3033,S,Area of? ,Rs,SK
+131,3033,T,And what else? ,Q,SK
+132,3033,S,Dimension. ,Rs,SK
+133,3033,T,"Length, width and?",Fq,SK
+134,3033,S,Answer the question. ,Rs,SK
+135,3033,S,Straight or curly? ,Rs,SK
+136,3033,T,Who can repeat what the three are?,P,SK
+137,3033,S,"Length, width, and type? ",Rs,SK
+138,3033,S,"Length, width, and type. ",Rs,SK
+139,3033,T,"Length, width, and type of materials. ",Fy,SK
+140,3033,S,What number is this? Number 5? ,Q,NA
+141,3033,S,"It is like the first one, I thought. ",Rs,NA
+142,3033,T,Alright. ,Fy,NA
+143,3033,T,Let us go to Number 20. ,P,NA
+144,3033,T,What type of circuit could give you more current flowing than two light bulbs and a source? ,Q,SK
+145,3033,T,A series or parallel? ,Q,SK
+146,3033,S,Parallel.,Rs,SK
+147,3033,T,Parallel. Very good! ,Fy,SK
+148,3033,T,Fourteen. What is the symbol for current?,Q,SK
+149,3033,T,What is the unit for current? ,Q,SK
+150,3033,T,What is the symbol? For current? ,Q,SK
+151,3033,T,What is the symbol? What letter do we use to represent current? ,Q,SK
+152,3033,S,[inaudible]?,Rs,SK
+153,3033,T,Okay. That is a schematic symbol. ,Fy,SK
+154,3033,T,What symbol do we use in the equation? ,Q,SK
+155,3033,S,Yes. 5. I know science. Oh my gosh! ,Rs,SK
+156,3033,T,What are the units? ,Q,SK
+157,3033,S,"Well, I do. ",Rs,SK
+158,3033,S,Amps?,Rq,SK
+159,3033,T,Amps. ,Fy,SK
+160,3033,S,Give me the ball here? ,Rq,NA
+161,3033,T,Here. Next time you do that I am not going to throw the ball to you. ,P,NA
+162,3033,T,"Now, did anybody? We will go a couple more.",P,NA
+163,3033,T,21. Describe home wiring using the terms: series and parallel. ,P,OD
+164,3033,T,How is a home wired? Nolan. ,Q,OD
+165,3033,T,"Well, how is a home wired? ",Q,OD
+166,3033,S,Parallels? ,Rs,OD
+167,3033,T,How is that circuit possible? How is it wired? ,Q,OD
+168,3033,S,"Okay, it is close.",Rs,OD
+169,3033,T,"Now, did everybody hear that? A home is wired using both types of circuits-- a series and a parallel circuit. ",Fs,OD
+170,3033,S,I am two for two.  ,Rs,OD
+171,3033,T,"What we have to do is decide well, is a home.",P,OD
+172,3033,T,The series part of a circuit? ,Q,OD
+173,3033,T,What is in the series part of a home circuit?,Q,OD
+174,3033,T,"Abby, do you remember? ",Q,OD
+175,3033,S,No. ,Ry,OD
+176,3033,S,I do not think she can hear you. ,NA,NA
+177,3033,T,"What happens when this thing goes off, everything else goes off. ",E,EX
+178,3033,S,That is a series. ,Rs,OD
+179,3033,T,Yes. That is a series. ,Fy,SK
+180,3033,T,"What is that, that is in that part of the circuit?  Megan. Michael. What is it?",Q,EX
+181,3033,S,It is a fuse. ,Rs,EX
+182,3033,T,It is a fuse. ,Fy,EX
+183,3033,S,Throw him the ball.,Rs,NA
+184,3033,T,Listen. How many of you? A fuse is in the series part of the home circuit because if that goes off everything else goes off. ,E,SK
+185,3033,T,So what else? What is wired to the parallel part? ,Q,EX
+186,3033,S,The switch. ,Rs,EX
+187,3033,S,Batteries?,Rs,EX
+188,3033,S,And light bulbs? ,Rs,EX
+189,3033,T,Switch and light bulbs.,Fs,EX
+190,3033,T,The appliances are the loads. Okay? The loads are the appliances. ,E,EX
+191,3033,S,Who invented the light bulb? ,Q,SK
+192,3033,S,Thomas Edison. ,Rs,SK
+193,3033,T,"Okay because we are short, short on the class period today, I want to just give it to you right now. ",P,NA
+194,3033,T,Are there any of these questions that you guys have looked over and cannot answer? ,P,NA
+195,3033,S,Are we taking the test right now? ,Rq,NA
+196,3033,T,I want to make sure if you try; ,P,NA
+197,3033,T,"if you have tried to answer these questions, are there any here that you have not been able to answer? ",Q,NA
+198,3033,T,Megan. Question 22. Explain how a dimmer or Rheostat works. Who can do that? JP. How does a Rheostat work? ,Q,SK
+199,3033,S,A dimmer is a light bulb. ,Rs,SK
+200,3033,T,"Okay. JP, this is a dimmer and a Rheostat. ",Fs,SK
+201,3033,T,"You turn the knob, what does it do? Goes off. ",Q,SK
+202,3033,S,Brightens. ,Rs,SK
+203,3033,T,It brightens and darkens the light bulb.,Fs,SK
+204,3033,S,It cuts off the amount of electrons flowing through it. ,Rs,SK
+205,3033,T,Very good! ,Fy,SK
+206,3033,S,I taught myself. ,Rs,NA
+207,3033,T,But how does it work? ,Q,SK
+208,3033,S,The voltage.,Rs,SK
+209,3033,T,What is inside of it? Megan. ,Q,SK
+210,3033,S,Energizer bunnies. Mike. Mike! ,Rs,SK
+211,3033,T,"What is inside this? Yes current is flowing through it, but what is the actual thing that is inside of them? ",Q,SK
+212,3033,S,A microchip? ,Rs,SK
+213,3033,T,"Answer the question, what is the thing actually inside of it?  Stephanie. ",Q,SK
+214,3033,S,The sham. ,Rs,SK
+215,3033,T,"It is kind of a switch, but it is more of a pointer turning and there is a contact. ",Fs,SK
+216,3033,T,There is a connection inside here. ,E,SK
+217,3033,T,What is it connected to? It has to do with changing the resistance. ,Q,SK
+218,3033,S,Oh! A revolmeter? ,Rs,SK
+219,3033,T,What does the resistance meter wire depend on?,Q,SK
+220,3033,S,Width? ,Rs,SK
+221,3033,T,Width or?,Fq,SK
+222,3033,S,Length. ,Rs,SK
+223,3033,T,Length or? The pointer inside this Rheostat. ,Fq,SK
+224,3033,S,A light saver.,Rs,SK
+225,3033,T,Is contacting a wire.,Fs,SK
+226,3033,T,Thomas put that away.,P,NA
+227,3033,T,And when you turn this it is moving that contact to a different point in the wire changing the effect of length that the electrical circuit has to go through. ,E,SK
+228,3033,T,So the longer the length that the contact has. ,E,SK
+229,3033,T,Thomas put that away. ,P,NA
+230,3033,T,The longer the contact point is the more resistance the dimmer the light bulb. ,E,SK
+231,3033,T,"Alright. Any other questions on this sheet? Alright. Now, if you have not noticed this there is a camera in the back of the room. Everything you say will be recorded. ",P,NA
+232,3033,T,"Alexia, are you sharing with Chris? ",P,NA
+233,3033,T,Dan has Megan. Do you? Alright sign it anyway. ,P,NA
+234,3033,T,Quiet! Now everybody who has? If you guys are? ,P,NA
+235,3033,T,Guys listen up! It is time to listen guys.,P,NA
+236,3033,T,If you got your activity 2.9 okay I marked and there was only.,P,NA
+237,3033,T,Guys? There was only one person whom I gave a score to in this class for that activity. ,P,NA
+238,3033,T,The rest of you if you handed it in there are significant mistakes on it and what I want you to do today is to follow me with the activity on the projector and fix a mistake or any mistake that you see there and then you are going to hand it back to me. ,P,NA
+239,3033,T,"Most importantly, I want you guys to reword or rewrite that reflection. ",P,NA
+240,3033,T,So we are going to try to go through the three tables; one example in each table and we are going to talk about each one and how you do the calculation. ,P,NA
+241,3033,T,Alright? To start off with you need three equations. ,P,NA
+242,3033,T,So the first thing I want you to do is okay is to make sure you have these three equations on the front page of that packet. ,P,NA
+243,3033,T,"If you do not have your packet, you need to find it and get it out.  If you do not have it with you, just get out a piece of paper because I think we only have a couple of extra copies. ",P,NA
+244,3033,T,"If you do not have it with you, just get out a piece of paper because I think we only have a couple of extra copies.",P,NA
+245,3033,T,"Alright, first equation is Electrical Energy= (# Watts) x  (# Seconds) ",E,SK
+246,3033,T,Everybody should have this equation on your paper. ,P,NA
+247,3033,T,Put it at the top wherever you have room. ,P,NA
+248,3033,T,This is the one I did not have the space for.,P,NA
+249,3033,T,"Electrical Energy, to calculate you take the number of watts times the number of seconds. ",E,SK
+250,3033,T,Alright. The formula to calculate Heat Energy. ,E,SK
+251,3033,T,Heat Energy= Mass x Change in Temperature x Specific Heat Alright. ,E,SK
+252,3033,T,You guys should all have this down. ,P,NA
+253,3033,T,"But if you do not have it, then make sure you have it. ",P,NA
+254,3033,T,Formula for Efficiency.  Okay efficiency now when we first started this I gave different numbers and different names to be used fictitiously. ,E,SK
+255,3033,T,Alright. Efficiency now. Get this real clear. ,E,SK
+256,3033,T,This is what is on the table. ,P,NA
+257,3033,T,You take the Heat Energy divided by Electrical Energy. ,E,SK
+258,3033,T,Heat Energy divided by Electrical Energy. ,E,SK
+259,3033,T,"Okay? Yes, this is Heat Energy.  ",E,SK
+260,3033,T,Efficiency= [Heat Energy / Electrical Energy] x100 ,E,SK
+261,3033,T,"You take this, Heat Energy divide it by Electrical Energy and then you multiply by a hundred to get a percent. ",E,SK
+262,3033,T,Alright. So those are the three equations you need. ,E,SK
+263,3033,T,"Alright, the main thing with this is activity; we are trying to find out what is the most efficient way to heat the water.",E,SK
+264,3033,T,"And if you look at it, it is basically telling you if you have a certain amount of Heat Energy and you divide it by Electrical Energy that gives you a number. ",E,SK
+265,3033,T,The larger the number for the efficiency the more efficient it is. ,E,SK
+266,3033,T,"To get a large number, you need? ",Q,SK
+267,3033,S,Heat! ,Rs,SK
+268,3033,T,"A large amount of Heat Energy which means a large change in temperature, ",Fs,SK
+269,3033,T,"but if you use a lot of Electrical Energy to make that Temperature change, then you efficiency is not going to be large because you have a large number dividing into the number.",E,SK
+270,3033,S,OHHHH! ,NA,SK
+271,3033,T,So. Basically it is how little energy you need to use in order to make the heat rise a lot; ,E,SK
+272,3033,T,in order to make the temperature rise a lot. ,E,SK
+273,3033,T,Okay? So does everybody have these three equations?  ,P,NA
+274,3033,S,I cannot see them.,Rs,NA
+275,3033,T,Alright. I will leave them up a little bit longer. ,P,NA
+276,3033,S,Megan needs help.,Rs,NA
+277,3033,T,"Stephanie, do you need any more time? ",P,NA
+278,3033,S,Do not erase it. Alright I am good.,Rs,NA
+279,3033,T,Alright. We are going to fill in the first row.,P,NA
+280,3033,T,Here. Initial Temperature. Somebody give me the data that you have. ,P,OD
+281,3033,S,22,Rs,OD
+282,3033,T,22. Okay that one we did in class. ,Fy,OD
+283,3033,T,Everybody has that. Alright. ,P,NA
+284,3033,S,What? ,Rq,OD
+285,3033,T,Another Temperature. ,Q,OD
+286,3033,S,37,Rs,OD
+287,3033,T,What is the temperature change? Ray? What is the temperature change? ,Q,OD
+288,3033,S,14,Rs,OD
+289,3033,T,Wrong. For this one. ,Fq,OD
+290,3033,S,15,Rs,OD
+291,3033,T,We are going to use the numbers that I put up here. ,P,OD
+292,3033,T,"What is the Mass of H2O2? Okay, Specific Heat. ",P,SK
+293,3033,T,What is the value for Specific Heat? ,Q,SK
+294,3033,T,"JP? Put that away. JP, ",P,NA
+295,3033,T,what is value of the Specific Heat that we are using? ,Q,SK
+296,3033,S,It would be approximately 17. ,Rs,SK
+297,3033,T,"Okay. Megan, how much time? ",Q,OD
+298,3033,S,90 seconds? ,Rs,OD
+299,3033,T,90 seconds. ,Fy,OD
+300,3033,T,"Alright. Now, we are going to do a Poll Bar. ",P,NA
+301,3033,T,Everybody has that table or a table? I do not know. ,P,NA
+302,3033,T,Let us see who is signed in. ,P,NA
+303,3033,T,Alright. Let us go back to the other day that we did.,P,NA
+304,3033,T,I want you guys to calculate Electrical Energy. ,P,SK
+305,3033,T,Alright. So start calculating Electrical Energy. ,P,SK
+306,3033,T,How do you calculate Electrical Energy?,Q,SK
+307,3033,S,You do Watts times Seconds.,Rs,SK
+308,3033,T,Watts times Seconds. ,Fs,SK
+309,3033,T,What is the number 1 for the Rapid Emersion Heat? ,Q,SK
+310,3033,T,Hannah? What is the number of Watts for the Emergent Heater? ,Q,SK
+311,3033,S,400? ,Rs,SK
+312,3033,T,400. Very good! ,Fy,SK
+313,3033,T,So you take the number of watts times the number of seconds. ,Q,SK
+314,3033,T,Can everybody calculate that calculation and send it over on your calculator?,Q,SK
+315,3033,T,"Girls, sit down. This is your last warning.",P,NA
+316,3033,T,JP put that away now!,P,NA
+317,3033,T,"Alright. Ann, go back to your seat. ",P,NA
+318,3033,T,"Okay, guys there is fourteen of you logged in. ",P,NA
+319,3033,T,I want fourteen inputs.  Fourteen inputs. ,P,NA
+320,3033,T,Ronny redo yours. ,P,NA
+321,3033,T,I want a number. Recalculate Electrical Energy. ,P,SK
+322,3033,S,We need the number? ,Rq,OD
+323,3033,T,No. Redo yours. ,P,OD
+324,3033,T,"Ray, I want a number. 10 seconds. ",Q,OD
+325,3033,T,"Okay. What is the right answer? 36,000.",Q,OD
+326,3033,S,Joules? ,Rs,SK
+327,3033,T,Joules. ,Fy,SK
+328,3033,T,"The unit. Guys, now calculate this Heat Energy. ",Q,SK
+329,3033,S,When is this class over?,Rq,NA
+330,3033,T,When I say so.,Fy,NA
+331,3033,T,I will put the information back on. ,P,NA
+332,3033,T,You see the information that is on the screen. ,P,NA
+333,3033,T,"We are going stop it. Okay. Anybody else? Courtney, are you going to put in? ",P,NA
+334,3033,S,I am. ,Ry,NA
+335,3033,T,"Times 15. 12,600. ",Fy,OD
+336,3033,S,Three numbers and I still got it wrong.,Rs,NA
+337,3033,T,"Alright. Ray, what is the unit that goes next to 12,600? ",Q,SK
+338,3033,S,I do not know. ,Rs,NA
+339,3033,T,Electrical Energy was Joules. ,Fs,SK
+340,3033,T,What is the unit that goes next to Energy? ,Q,SK
+341,3033,T,Guys. Important part here—Joules is energy.,E,SK
+342,3033,T,When you see Energy you are looking for Joules. ,E,SK
+343,3033,T,"Now Efficiency. What you do is you take 12,600 and divide by the Electrical Energy.",E,SK
+344,3033,T,The Heat Energy divided by the Electrical Energy. ,E,SK
+345,3033,T,"36,000. And it gets .35 and if you multiply that by a 100 and you get 35%.",E,SK
+346,3033,T,Alright. So the value for Efficiency for this Emersion Heater is 35%. ,E,SK
+347,3033,T,"And if you took three trials, you can take an average, but to this one you have 35%. Now. ",E,SK
+348,3033,S,Next question. ,Rs,NA
+349,3033,T,"And the next point—explanation of 2,400 watts in 3 watt hours.",E,SK
+350,3033,T,Those numbers. ,E,SK
+351,3033,T,"These numbers 2,400 watts which is 2.4 kilowatts. ",E,SK
+352,3033,T,That is the power of maximum; the maximum power.  ,E,SK
+353,3033,T,That is the maximum power that any combination of appliances can use at any one time. ,E,SK
+354,3033,T,You know power just occurs at any single point. ,E,SK
+355,3033,T,"If our microwave was 1,400 watts. ",E,EX
+356,3033,T,"If that was running it would be consuming 1,400 watts. ",E,EX
+357,3033,T,"If we turned on a 100 watt light-bulb, then we would be using 1,500 watts. ",E,EX
+358,3033,T,"Alright? So, more and more appliances you turn on the more and more wattage you are going to use at any one time. ",E,EX
+359,3033,T,"You can not exceed 2,400 watts. ",E,EX
+360,3033,T,That is the reason for the appliance schedule and when you can turn the appliances on. Okay. ,E,EX
+361,3033,T,Now you can say we can only wash clothing at night.,E,EX
+362,3033,T,"Okay, when nothing else is on because maybe the washer takes a lot of power. ",E,EX
+363,3033,T,You have to see what the power is.,E,EX
+364,3033,T,The other one—3 kilowatt hours is your energy budget per day. ,E,EX
+365,3033,T,"Okay, that means that on average every day you cannot use more than 3 kilowatt hours of energy. ",E,EX
+366,3033,T,"Alright? So in a month, so say there is around 30 days in a month. ",E,EX
+367,3033,T,That takes you to 90 kilowatt hours in a month or you could say between 90 -100 kilowatt hours in a month. ,E,EX
+368,3033,T,Because if there are 3 in a day that is 93 kilowatt hours.,E,PD
+369,3033,T,So somewhere between 90-100 kilowatt hours in a month is what we are going to use for our budget. ,E,PD
+370,3033,T,Now does anybody know how much electrical energy their home uses on average in a day? ,Q,EX
+371,3033,S,2,Rs,EX
+372,3033,T,"Mike, what do you think? 2 kilowatt hours? ",Q,EX
+373,3033,S,Like twenty million.,Rs,EX
+374,3033,T,"No. Well, typically if you are the average American household. ",E,EX
+375,3033,T,Does anybody have another idea? ,Q,EX
+376,3033,S,Yes! ,Ry,EX
+377,3033,T,And what do you think? ,Q,EX
+378,3033,S,7,Rs,EX
+379,3033,T,7?,Fy,EX
+380,3033,S,24! ,Rs,EX
+381,3033,T,Okay. This is what I want you to do tonight or over the weekend. ,P,NA
+382,3033,T,Ask your parents if you can see the electric bill. ,P,EX
+383,3033,T,"Alright? Or if they do not want to show you the electric bill,",P,EX
+384,3033,T,"what they are paying, just ask them what the electric bill says about how many kilowatt hours they have used in a month. ",P,EX
+385,3033,T,I looked at mine last night. ,E,EX
+386,3033,S,How much is it? How much is it? ,Rq,EX
+387,3033,T,I was shocked. ,Fy,EX
+388,3033,S,How much? ,Rq,EX
+389,3033,T,I am afraid to say. Because that. ,Fs,EX
+390,3033,T,Well I will tell you when you guys tell me. ,P,EX
+391,3033,T,We will all share together on Monday. ,P,EX
+392,3033,S,Is it more than four digits? ,Rq,EX
+393,3033,T,No. It is not more than four digits. ,Fs,EX
+394,3033,T,"Okay. So Monday we will all contribute what are energy usage is. Now, it is important! Guys, it is important in light of the effects of, what we call what scientists have determined is global warming. The more energy that is being used the more carbon dioxide emissions are sent into the atmosphere. It is just a byproduct of our quest for more and more energy and if we continue using it the way we have been using it, it is going to be much harder for this issue of the global warming to be helped and things like that. ",E,EX
+395,3033,T,Has anybody ever seen Al Gore’s movie? Q2,Q,NA
+396,3033,S,I have. ,Rs,NA
+397,3033,S,It was great!,Rs,NA
+398,3033,S,Great movie! ,Rs,NA
+399,3033,S,I love that movie! ,Rs,NA
+400,3033,T,"Yes, I love it. I took my kids to see it and well they thought it was stupid. But I forced them to; I propped their eyes open with toothpicks and said, “You have got to watch this.” So. ",Q,NA
+401,3033,S,It is actually really good. ,Rs,NA
+402,3033,T,"So hopefully this project will give you a sense of how much energy we are using and get you to start thinking about that. Okay, one thing before we start. Two things I want from the groups today—okay one is you take your list of components in the project; there are twelve of them, and within your group you divide up responsibility of the components to one person as far as one person will have a couple of these components so to be responsible to make sure that those components are included in your project. Okay. It is kind of like you are the boss of those components. And those have been done and if they have not been done, who is responsible for doing them or if you were all responsible then the responsibility falls on the head person.",P,NA
+403,3033,S,Who is in our group? ,Rq,NA
+404,3033,T,"Right now it is you four. Okay? So that is one thing that I want. A page from everybody showing who is responsible for which components. The second thing is I want to see each group have their list started or at least a good start to the list and you will have time also to start looking at well what is the power of the appliances, and things like that. And you can start thinking about what appliances you are going to be using. One thing is you are going to have to decide too is where is this home going to be located. Is it going to be in Siberia where it is cold? Is it going to be in Africa? Where it is going to be very hot. So the climate; the climate will determine the factors. Alright? Another thing is how many people live in there? Alright? How many people live in the home? You will have to decide that. Right now those are the two things I can think of. You may think of other things. Alright. Now, so we will break off into our halves. Okay. I want to take volunteers. Does any group? I need two groups to start with the practice test. ",P,NA
+405,3033,T,Put the calculator down. Leave your answer on the calculators or… What I’m going to have you guys do is read off your answer to the what do you think question.,P,NA
+406,3033,T,"Everybody, ok? And we’re going to start with Jake.",Q,NA
+407,3033,S,A current is goes thru it. ,Rs,SK
+408,3033,S,Can I answer?,Rq,SK
+409,3033,T,"Alright, hold on. ",Fy,NA
+410,3033,S,That’s so weird. ,Rs,SK
+411,3033,T,"Ok, the question is… what I want you to do is just read what you typed in and what you wrote down.",P,NA
+412,3033,T,"So Jake, you said a current goes thru it. ",Fy,SK
+413,3033,S,Yeah. ,Rs,SK
+414,3033,T,Ok. Shhh. Guys. Mary.,P,NA
+415,3033,S,It sends a current.  ,Rs,SK
+416,3033,S,Foiled. / It sends a current. ,Rs,SK
+417,3033,T,"Blue, blue. ",Fy,NA
+418,3033,S,I didn’t say blue.  ,Rs,NA
+419,3033,T,"Ok, pull out the colors. ",P,NA
+420,3033,S,It sends a current. ,Rs,SK
+421,3033,T,"It sends a current. Current, current. ",Fy,SK
+422,3033,T,"Guys, you know what I said about start thinking about unit one concepts of…",P,SK
+423,3033,T,Anthony.,P,SK
+424,3033,S,"When you [inaudible] flip the switch, electrons [inaudible] and make sure [inaudible]. ",Rs,SK
+425,3033,S,That’s what I said. ,Rs,SK
+426,3033,T,Are you lost?,Fq,NA
+427,3033,S,She’s a magician.  ,Rs,NA
+428,3033,T,[inaudible]. Anybody want to…,P,SK
+429,3033,S,"Alright, basically its [inaudible] current. ",Rs,SK
+430,3033,T,Still current.,Fs,SK
+431,3033,T,Hailey. ,P,SK
+432,3033,S,The electric current moves the motor.,Rs,SK
+433,3033,S,Yellow. / Yellow. ,Rq,NA
+434,3033,T,Moves. ,Fy,SK
+435,3033,S,Hold on. Yeah. ,Rs,NA
+436,3033,T,I got to have something right. ,P,NA
+437,3033,T,"Alright, Kate. ",Q,NA
+438,3033,S,I said electrons going thru the wire to the spinner. ,Rs,SK
+439,3033,S,The spinner?,Rs,SK
+440,3033,T,So electrons go from the wire to the spinner? ,Fq,SK
+441,3033,S,"Yeah, like thru the wire. ",Rs,SK
+442,3033,T,"Alright, think about this. ",P,NA
+443,3033,T,This came up in the other class. ,P,NA
+444,3033,S,"It’s a mixer, like the spinner. ",Rs,SK
+445,3033,S,"Yeah, it’s a mixer like when you’re baking a cake. ",Rs,EX
+446,3033,T,"Guys, guys. I’m going to point out some things that will give you an answer. ",P,NA
+447,3033,T,"Think about this, Kate. ",P,NA
+448,3033,T,Do electrons actually go from the wires to the spinner? ,Fq,SK
+449,3033,S,No. ,Rs,SK
+450,3033,T,If there’s no connection there… ,Fq,SK
+451,3033,S,What is a spinner? ,Rq,SK
+452,3033,T,"I’m not saying… you know, I’m not saying that what you’re saying is totally wrong ",Fs,SK
+453,3033,T,but you might need to rephrase it…,Fq,SK
+454,3033,S,It goes to the motor that generates the…,Rs,SK
+455,3033,T,"Ok, the motor, ok.",Fy,SK
+456,3033,T,"Zack, you’re up.",Q,SK
+457,3033,S,It makes the motor [inaudible]. ,Rs,SK
+458,3033,T,"Guys, class. ",P,NA
+459,3033,S,"Hey, Zack…",P,NA
+460,3033,T,Whoa. Stop talking.  ,P,NA
+461,3033,S,It makes the motor turn by sending current thru the wire which causes the magnet and the motor to spin.,Rs,SK
+462,3033,T,Say that again.,P,NA
+463,3033,S,It makes the motor turn by sending the current thru the wire which causes the magnet and the motor to spin. ,Rs,SK
+464,3033,T,"Ok, spin. We have to write that word down. ",Fy,SK
+465,3033,T,Sarah. ,P,NA
+466,3033,S,The electricity sends it [inaudible].,Rs,SK
+467,3033,T,Turns; write that down.,Fy,NA
+468,3033,T,Julie.,P,NA
+469,3033,S,I said [inaudible] ,NA,NA
+470,3033,T,"Ok, I’m going to put two of your words down, power and push. Very good.",Fy,SK
+471,3033,S,It will [inaudible] the wire [inaudible] ,Rs,SK
+472,3033,T,"Ok, so you said moves; that’s up there. ",Fs,SK
+473,3033,S,I said mechanical energy,Rs,SK
+474,3033,T,"Ok. Mechanical energy, good. ",Fy,SK
+475,3033,T,"Meg, you’re next. ",P,NA
+476,3033,S,The electricity [inaudible] energy which makes the motor run. ,Rs,SK
+477,3033,T,"So you said mechanical energy, too? ",Fq,SK
+478,3033,S,Yeah. ,Ry,SK
+479,3033,T,Or did you say something different? ,Fq,SK
+480,3033,S,"No, I said electricity is like [inaudible] ",Rs,SK
+481,3033,T,"Ok, mechanical energy.",Fy,SK
+482,3033,T,Maggie? ,P,SK
+483,3033,S,[inaudible]magnets [inaudible] motion. ,NA,NA
+484,3033,T,Ok. Motion. ,Fy,SK
+485,3033,T,Erin [inaudible]? ,P,SK
+486,3033,S,"Yeah, I said mechanical energy pushes the motor [inaudible] ",Rs,SK
+487,3033,T,"Ok, pushes. ",Fy,SK
+488,3033,S,We have that.,Rs,NA
+489,3033,T,We have that up there? ,Fq,NA
+490,3033,T,Emily? ,P,NA
+491,3033,S,I have electricity is turning to mechanical energy [inaudible] ,Rs,SK
+492,3033,T,"Oh, Hannah? ",P,NA
+493,3033,S,A current goes thru it.,Rs,SK
+494,3033,T,A current goes thru it. ,Fy,SK
+495,3033,T,Rebecca?  ,P,NA
+496,3033,S,Electric currents attract electrons and [inaudible] ,Rs,SK
+497,3033,T,Attract. I like that. ,Fy,SK
+498,3033,T,"Alright, Woo, you are up. Now you can talk. ",Q,NA
+499,3033,S,Ok. Now I can?  ,Rq,NA
+500,3033,T,Go ahead. What did you write? ,P,NA
+501,3033,S,Well I think my answer was wrong. ,Rs,NA
+502,3033,T,"I don’t care if it’s wrong, I want to hear what everybody wrote.",P,NA
+503,3033,S,What do you think? / Yeah. / Whoo. ,Rs,NA
+504,3033,S,I wrote the electricity makes a [inaudible] ,Rs,SK
+505,3033,T,"Alright, from now on, Woo, keep your ears open and your mouth closed. ",P,NA
+506,3033,T,Maybe you can pick up some of what somebody else is saying. ,P,NA
+507,3033,T,Mike. ,P,NA
+508,3033,S,Keep your mouth closed. ,Rs,NA
+509,3033,S,I said [inaudible],NA,NA
+510,3033,T,Dan?,P,SK
+511,3033,S,"Electrons, power, [inaudible] ",Rs,SK
+512,3033,T,"Ok, electron, power",Fy,SK
+513,3033,T,we have that word power up there. ,P,NA
+514,3033,S,It’s my turn. / [inaudible] / Where are you going? ,Rq,NA
+515,3033,T,Well they do. ,P,NA
+516,3033,T,I’m not sure that it has too much to do with why the motor’s working.,E,SK
+517,3033,T,"Well yeah, first I’m going to put that down too. ",P,NA
+518,3033,T,You got two words. And Ally.,P,NA
+519,3033,S,A current goes thru it. ,Rs,SK
+520,3033,T,A current goes thru. ,Fy,SK
+521,3033,S,Yeah. ,Ry,SK
+522,3033,T,"Now the key in that question, guys, was “how” does it work?",Q,SK
+523,3033,T,What is causing the thing to spin around? ,Q,SK
+524,3033,T,Now when we deal with motion these are unit one concepts. ,E,SK
+525,3033,T,"What causes motion? Alright, Ally. ",Q,SK
+526,3033,S,Force.,Rs,SK
+527,3033,T,Ally said force.  ,Fy,SK
+528,3033,T,"We have force here, force here. ",E,SK
+529,3033,T,When something turns it needs a force; ,E,SK
+530,3033,T,when something moves it needs it needs a force.,E,SK
+531,3033,T,When something spins it needs a force. ,E,SK
+532,3033,T,"So the whole key to this, to this motor is there’s some kind of force making this thing turn around. ",E,SK
+533,3033,T,"Well, it’s an interaction.",E,SK
+534,3033,T,"Oh, that’s another word. ",Fs,SK
+535,3033,S,"SS:  Good job, you got a word. / [inaudible]",Rs,SK
+536,3033,T,A force is an interaction. ,Fy,SK
+537,3033,T,"Alright, it’s an interaction between… Guys… An interaction between the moving electrons flowing thru the wires and the magnets that you’re going to use in order to build your motor. ",E,SK
+538,3033,T,"Ok? So this is what we’re going to do. You guys are going to… Well first thing you’re going to do is brainstorm about the battery, the solenoid or the coil wire, the paper clips and the magnet go in that chart, ok, and then after you’re done filling in the chart then you’re going to get some equipment in order to try to build your motor, alright? Now let me show you the model of what you’re going to build; it looks like this. We have a battery, two paper clips going on the ends of the battery. You have to bend the paper clips like this, ok? I’m going to leave this up here in the front. If you need to take a look at it to see… Or I might bring it around once and then I’ll put it back up here so if you need to look at it again it will be up here. But leave it up here, ok? The paper clips can point down like this and it creates a kind of a holder that you’re going to use a solenoid or coiled wire like this and it’s going to hold the coil wire in it. When this wire is touching the paperclips which are touching the battery electricity starts to flow because you have a closed circuit. But there’s something special, though, about the ends of the wires. That’s one thing you want to look at, the ends of the wires to see what’s different about the ends. Ok, there’s something special about it. I want you guys to buddy, find out what that is. Alright?",E,SK
+539,3033,T,"So many of you guys were [inaudible]. What do I write here? It’s not working right, you know, what do I write here, things like that. We have to know the basic principle of what’s happening to make the motor work, alright? ",E,SK
+540,3033,T,Now… Remember our galvanometer?,Q,OD
+541,3033,S,Yes! ,Ry,OD
+542,3033,T,Compass? ,Q,OD
+543,3033,S,Yes! ,Ry,OD
+544,3033,T,When we had the wire wrapped around the compass? ,Q,OD
+545,3033,S,Yes. ,Ry,OD
+546,3033,T,What did we have to do to the generator to make the needle of the compass spin it around? ,Q,OD
+547,3033,S,Do a [inaudible] turn. ,Rs,OD
+548,3033,T,No. What did we have to do to make it continually spin around…,Q,OD
+549,3033,S,Crank the generator. ,Rs,OD
+550,3033,T,Well we had to crank the generator…,Fy,OD
+551,3033,S,Really fast… / No…,Rs,OD
+552,3033,T,"Raise your hands, guys. Mary Fran. ",P,NA
+553,3033,T,"Let’s go to Jim, the shortest one",P,NA
+554,3033,T,we’ll go shortest to longest. ,P,NA
+555,3033,T,Jim says frequency is speed at which the motor turns.  ,Fs,SK
+556,3033,T,So the question was what’s the difference between speed or frequency ,Q,SK
+557,3033,T,"and Jim, you’re saying frequency is speed but you put in that word turns. ",Fs,SK
+558,3033,S,Yeah.,Rs,SK
+559,3033,T,"Ok, so it’s… You put a little bit of a difference in there, ok.",Fs,SK
+560,3033,T,"Next shortest, Eric Lee and Eric Lasko I’ll read one of yours because they’re very close. ",P,NA
+561,3033,T,Speed is how fast something is going; frequency is the amount of things going. ,Fy,SK
+562,3033,T,"Ok, the amount of things going, how fast something is going, ok? ",Fs,SK
+563,3033,T,"Alright next longest, Nick. Speed is the rate at which an object moves and he doesn’t know what frequency is. ",Fs,SK
+564,3033,T,"Adam, frequency is how fast they can go and how fast you are going.",Fy,SK
+565,3033,S,Yes. ,Ry,SK
+566,3033,T,It or you?,Q,NA
+567,3033,S,There you go. ,Rs,NA
+568,3033,T,So it depends a lot on which thing is moving? Ok. ,Fs,SK
+569,3033,T,"Kara, speed is how fast something goes and frequency is how fast something could go.",Fy,SK
+570,3033,T,"Alright. Matt, frequency is how fast you could go and speed is how fast you go over a period of time. ",Fy,SK
+571,3033,S,That’s [inaudible] ,Rs,SK
+572,3033,T,Who didn’t we get to yet? The long ones.,P,NA
+573,3033,T,"Jessica, the difference between frequency and speed is that frequency is how fast you go and speed is how fast you could go over time. ",Fy,SK
+574,3033,T,"Similar to the last one, Tom. Frequency is a measure of how often galnometer (sic) needle moves. Speed would measure how quickly the needle moves. ",Fy,SK
+575,3033,T,"Ok. Ryan, the frequency in the field of waves – speed can deal with objects;",Fy,SK
+576,3033,T,frequency is distance between speed equals distance divided by time. Speed is distance divided by time. ,Fy,SK
+577,3033,T,Frequency is distance between? ,Fq,SK
+578,3033,S,In between waves. ,Rs,SK
+579,3033,T,"Between waves, ok. ",Fy,SK
+580,3033,T,"John, speed is how fast an object is moving but frequency is the amount of time something happens in a period of time.  ",Fy,SK
+581,3033,T,"Ok, Dave. ",P,NA
+582,3033,S,Alright.,Rs,NA
+583,3033,T,"Speed is how fast something moves, frequency is how many rotations or something an object completes in a certain amount of time. ",Fy,SK
+584,3033,T,So let’s see a show of hands. ,P,NA
+585,3033,T,"Or let’s see, how are we going to do this?",P,NA
+586,3033,T,What do you think is the best one?,Q,NA
+587,3033,T,Raise your hand to give your nomination. Eric. ,P,NA
+588,3033,S,Eric Lasko. / Let’s nominate Eric Lee. / Ryan.,P,NA
+589,3033,T,Ryan and [inaudible] ,P,NA
+590,3033,S,Yes.,Ry,NA
+591,3033,T,Ok. ,Fy,NA
+592,3033,S,"Oh, great. ",Ry,NA
+593,3033,T,Any other nominations? ,Q,NA
+594,3033,S,Eric Lasko. / Me too. / Eric Lee and Tom Quirk. ,Rs,NA
+595,3033,T,Eric Lee and Tom Quirk. Ok. ,Fy,NA
+596,3033,S,[inaudible] Ryan. ,P,NA
+597,3033,T,Two for Ryan. Any second…,Fs,NA
+598,3033,T,Anybody to second the nomination?,P,NA
+599,3033,T,Ryan got a second. Anybody else need a second? ,P,NA
+600,3033,S,You’re counting… / …head count. ,Rs,NA
+601,3033,T,"You second it. Alright, so let’s vote now.",P,NA
+602,3033,S,Who’s wrong?,Rq,NA
+603,3033,T,Any other seconds?,Fq,NA
+604,3033,S,Hands down. ,Rs,NA
+605,3033,T,Nominations? ,P,NA
+606,3033,S,I think it’s [inaudible] ,Rs,NA
+607,3033,T,"Alright, we can vote now. Eric… Eric Lee and Ryan have been nominated for voting.",P,NA
+608,3033,T,Raise your hand for Eric. ,P,NA
+609,3033,S,Whoo. / [inaudible] ,Ry,NA
+610,3033,T,Raise your hand for Ryan. ,P,NA
+611,3033,S,[inaudible] ,NA,NA
+612,3033,T,"And I agree with the majority of you, Ryan has…",Fs,NA
+613,3033,S,I’m the best!,Rs,NA
+614,3033,T, …the best definition of frequency.,Fs,NA
+615,3033,T,"Dave is very good, too, very close to what Ryan said. ",Fs,NA
+616,3033,T,Tom also. Those three are doing pretty good. ,Fs,NA
+617,3033,T,Now basically you can say the difference really succinctly by saying speed requires a distance and time to determine. ,E,SK
+618,3033,T,"Frequency, it’s not distance but a certain number of things and also time. ",E,SK
+619,3033,T,"So the difference between speed and frequency is not distance for frequency, but a certain quantity or number of things that often repeat. ",E,SK
+620,3033,T,Ok? So this is for speed. ,E,SK
+621,3033,T,"Numbers of things for frequency, ok?",E,SK
+622,3033,T,We’ll look at frequency while in your motor project – well your motor activity ,E,SK
+623,3033,T,"the second to the last question talked about speed, the speed of how that’s spinning. ",E,SK
+624,3033,T,What that specifically refers to is how far in distance the thing spins in a certain amount of time. ,E,SK
+625,3033,T,If you want to rephrase the question you could say well what is the frequency of that spinning? ,E,SK
+626,3033,T,That would say how many times it goes around each second or each minute. ,E,SK
+627,3033,T,There’s a little bit of difference there. ,E,SK
+628,3033,T,"It’s the difference between distance and numbers of times it completes a turn, ok? ",E,SK
+629,3033,T,So a specific way of describing this. ,E,SK
+630,3033,T,I’m going to start these from the least amount of writing to the most.,P,NA
+631,3033,T,We start seeing different variables; ,P,NA
+632,3033,T,"well they are different, so…",P,NA
+633,3033,T,Steve is out there… something [inaudible] so frequency is Z then something else.,P,NA
+634,3033,T,We’ll just go down the row.,P,NA
+635,3033,T,Now as I read these also it’s up here so you guys can refer back to it because again we’re going to try to figure out what you guys think is the best one.,P,NA
+636,3033,T,Frequency measures the rate of the speed. ,Fy,SK
+637,3033,T,Speed rate at which [inaudible] frequency how often [inaudible]. ,Fy,SK
+638,3033,T,Speed is how fast something goes and frequency is how often it happens. ,Fy,SK
+639,3033,T,Frequency is how long the speed changes. ,Fy,SK
+640,3033,T,Frequency is a rate at which something moves and speed is how fast. ,Fy,SK
+641,3033,T,Speed is how fast something is moving and frequency is how much something does something. ,Fy,SK
+642,3033,T,Can you guys read everybody’s name? ,Q,NA
+643,3033,S,Yeah. / [inaudible],Ry,NA
+644,3033,T,Frequency is how often something happens and speed is how fast something happens. ,Fy,SK
+645,3033,S,That’s what I put. ,Rs,NA
+646,3033,S,Can you make the screen bigger? ,Rq,NA
+647,3033,T,I’ll try.,Fs,NA
+648,3033,T,"Speed… ok, speed is distance over time, a measure of how fast something goes, frequency is how long something happens. ",Fy,SK
+649,3033,T,Frequency is a rate at which something [inaudible] and speed is [inaudible] divided by the time it took. ,Fy,SK
+650,3033,T,Frequency is the number of times so something…. Happens…,Fy,SK
+651,3033,T,…speed is how fast… ,Fy,SK
+652,3033,S,[laughter] ,Rs,NA
+653,3033,T,Accident? Ok. Frequency is the rate of speed; ,Fy,SK
+654,3033,T,speed is how fast you are. ,Fy,SK
+655,3033,T,Frequency is how constant and speed is how fast you’re going. ,Fy,SK
+656,3033,T,"Taylor, is this “applied”?",Fq,SK
+657,3033,S,"Yeah, applied. ",Rs,SK
+658,3033,T,Frequency can’t be applied to the same things as speed can.,Fs,SK
+659,3033,T,Speed is a movement and frequency is the rate at which it moves… ,Fy,SK
+660,3033,T,Speed is how fast something goes and frequency is the rate at which something moves. ,Fy,SK
+661,3033,T,"Frequency is how many times something happens, speed is how fast something is. Speed is how fast it moves and frequency is rate it travels. ",Fy,SK
+662,3033,T,"Now the way we’re going to do this, if you want to nominate one of these as the best…",P,NA
+663,3033,S,Sam’s. ,Rs,NA
+664,3033,T,…raise your hand. ,P,NA
+665,3033,S,"[inaudible] / Mine. / I second it. / Yeah. / Hey, hey… / I was watching ideas, man. / Somebody highlighted Zack. ",Rs,NA
+666,3033,T,"Now if somebody up here is nominated for the second time that’s what we call seconding the nomination, so they would be in for the final. ",P,NA
+667,3033,S,Zack. / Jake. / I second Jake. / It think everybody’s [inaudible]. / Don’t say everyone.,Rs,NA
+668,3033,T,Second… you need to have second nominations.,P,NA
+669,3033,S,Me. / I think Jake. ,Rs,NA
+670,3033,T,You second Jake? ,Fs,NA
+671,3033,S,I second Jake. ,Rs,NA
+672,3033,T,"Remember, lessons… what I say remember for your choice here, so, Zack…",P,NA
+673,3033,S,Jake. / Jake. / [inaudible] / I second… ,Rs,NA
+674,3033,T,Who remembers what frequency really is? ,Q,SK
+675,3033,S,I second Jake. / [inaudible] ,Rs,NA
+676,3033,T,Anybody want to second Zack?,P,NA
+677,3033,S,I second Zack. / Think again. / I third Sandy. / I nominate [inaudible]. ,Rs,NA
+678,3033,T,"Now we’re going to vote. Out of the four… so… guys, nobody twice. ",P,NA
+679,3033,T,"Alright, shall we do a secret ballot, or… ",P,NA
+680,3033,S,Yeah. / [inaudible] / Why don’t we do it on the calculator? ,Rq,NA
+681,3033,S,Why waste [inaudible]? ,Rq,NA
+682,3033,T,"Alright, everybody put your heads down.",P,NA
+683,3033,T,When I call the name put your hand up and I’ll count. No peeking. [inaudible]. Jake. ,P,NA
+684,3033,S,You’re better than that. / What did they all say? / Zack. / Wait… ,Rq,NA
+685,3033,T,Sam. ,P,NA
+686,3033,S,"Yeah, Sam.  ",Rs,NA
+687,3033,T,[inaudible] / Now… ,P,NA
+688,3033,S,[inaudible] / You guys are 25 [inaudible] the other 25. / Jake’s right. / I’m telling the truth. ,Rs,NA
+689,3033,T,"So actually I think you guys have it right, ",Fs,NA
+690,3033,T,Jake is pretty close to the best answer that I would say. ,Fs,NA
+691,3033,T,It’s the number of times something goes back and forth in a certain amount of time. ,E,SK
+692,3033,S,"Oh, yeah, you actually were thinking. ",Rs,NA
+693,3033,T,"Ok, now… so Jake says frequency is the number of times something happens",Fs,SK
+694,3033,T,speed would be how fast something is going.,Fs,SK
+695,3033,T,Now let me look at this. [inaudible] pretty close to… speed is how fast something goes and frequency is how often…,Fs,SK
+696,3033,T,they’re both pretty much the same. ,Fs,SK
+697,3033,T,"One thing you need to add, though, to those two.",Fs,SK
+698,3033,S,[inaudible],NA,NA
+699,3033,T,And that is how often something happens in a certain amount of time.,E,SK
+700,3033,T,You have to add that in order to be clear about frequency. ,E,SK
+701,3033,T,"Now the difference, if you’re just saying the difference, well maybe these are very good because the difference is frequency is about the number of times something happens in a certain amount of time and speed is how far something travels;",E,SK
+702,3033,T,the distance something travels in a certain amount of time. ,E,SK
+703,3033,T,The difference is speed talks about distance over length;,E,SK
+704,3033,T,frequency talks about the number of times that something happens. ,E,SK
+705,3033,T,"That’s the difference. Distance for speed, number of times something happens for frequency. ",E,SK
+706,3033,T,"  In the case of your motor, if the motor’s spinning around, your solenoid, if that’s spinning around, ",E,SK
+707,3033,T,"you’re talking about speed in terms of how far a point on the solenoid, the coil, moves as far as distance in a certain amount of time. ",E,SK
+708,3033,T,"If we’re talking about frequency we’re just talking about how many turns, complete turns that the coil makes in a certain amount of time, mostly in a second.",E,SK
+709,3033,T,"So the frequency of our motors that we start with, it looks like it’s… you know, ",E,SK
+710,3033,T," it could be ten times a second, fifteen times a second; that’s frequency. ",E,SK
+711,3033,T," As far as speed, well it would be very difficult to find… ",E,SK
+712,3033,T,"Well if not difficult, if not impossible, but you can find out how much distance in terms of meters, centimeters it moves in a certain amount of time, alright? ",E,SK
